@@ -1,0 +1,101 @@
+---
+title: "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương"
+source: "news_05.json"
+url: "https://baochinhphu.vn/truy-to-65-bi-can-trong-vu-dai-an-xay-ra-tai-vien-phap-y-tam-than-trung-uong-102260805113852704.htm"
+doc_type: "news"
+knowledge_base: "news"
+source_domain: "baochinhphu.vn"
+date_crawled: "2026-09-21T10:42:50.789035+00:00"
+source_tier: "government_or_public_broadcaster"
+claim_status: "official_case_report"
+sha256: "25104470598e6f70c66f7c21c731e2f88eb99c6af788df99e6cdf5b2eed7c072"
+---
+# Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương
+
+# Truy tố 65 bị can trong vụ 'đại án' xảy ra tại Viện Pháp y tâm thần Trung ương
+
+## (Chinhphu.vn) - VKSND thành phố Hà Nội vừa truy tố 65 bị can trong “đại án” xảy ra tại Viện Pháp y tâm thần Trung ương, liên quan đến 9 tội danh. Trong số này, hai cựu Viện trưởng Viện Pháp y tâm thần Trung ương Trần Văn Trường và Ngô Văn Vinh cùng bị truy tố về tội "Nhận hối lộ".
+
+## Truy tố 48 bị can nguyên là cán bộ, lãnh đạo, bác sĩ, nhân viên Viện Pháp y tâm thần Trung ương
+
+Trong số 65 bị can, có tới 48 bị can nguyên là cán bộ, lãnh đạo, bác sĩ, điều dưỡng, bảo vệ của Viện Pháp y tâm thần Trung ương và các bệnh viện tâm thần khác.
+
+Các bị can bị truy tố về 9 tội danh, gồm: Tàng trữ trái phép chất ma túy; tổ chức sử dụng trái phép chất ma túy; đưa hối lộ; nhận hối lộ; môi giới hối lộ; lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ; làm sai lệch hồ sơ vụ án; đánh bạc và Lừa đảo chiếm đoạt tài sản.
+
+Hai vợ chồng bị can Lê Văn Đông và Nguyễn Thị Mai Anh - Ảnh: VKSND thành phố Hà Nội
+
+Trong vụ án này, bị can Nguyễn Thị Mai Anh (sinh năm 1979, trú tại phường Thanh Xuân, Hà Nội) được xác định là đối tượng giữ vai trò trung tâm trong đường dây lợi dụng hoạt động giám định pháp y tâm thần để trục lợi.
+
+Nguyễn Thị Mai Anh bị Viện Kiểm sát nhân dân thành phố Hà Nội truy tố về 3 tội danh gồm: "Lừa đảo chiếm đoạt tài sản", "Đưa hối lộ" và "Môi giới hối lộ".
+
+Chồng của Mai Anh là Lê Văn Đông (tức Đông "Timo", sinh năm 1978, trú tại phường Từ Liêm, Hà Nội) bị truy tố về 2 tội danh: "Tàng trữ trái phép chất ma túy" và "Tổ chức sử dụng trái phép chất ma túy".
+
+Hai cựu Viện trưởng Viện Pháp y tâm thần Trung ương là Trần Văn Trường (sinh năm 1973) và Ngô Văn Vinh (sinh năm 1962, đã nghỉ hưu) cùng bị truy tố về tội danh "Nhận hối lộ" theo quy định tại Điều 354 Bộ luật Hình sự.
+
+Cùng với đó, cựu Phó Viện trưởng Viện Pháp y tâm thần Trung ương Dương Văn Lương (sinh năm 1962) và 45 bị can khác là cán bộ, lãnh đạo, bác sĩ, điều dưỡng, bảo vệ của Viện Pháp y tâm thần Trung ương và các bệnh viện tâm thần khác bị truy tố về các tội danh: "Nhận hối lộ"; "Đưa hối lộ"; "Môi giới hối lộ"; "Lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ" (quy định tại Điều 356 Bộ luật Hình sự); "Tàng trữ trái phép chất ma túy" (quy định tại Điều 249 Bộ luật Hình sự); "Đánh bạc" (quy định tại Điều 321 Bộ luật Hình sự).
+
+15 bị can còn lại bị Viện Kiểm sát truy tố về các tội danh: "Lừa đảo chiếm đoạt tài sản"; "Môi giới hối lộ"; "Đưa hối lộ"; "Tổ chức sử dụng trái phép chất ma túy"; "Tàng trữ trái phép chất ma túy".
+
+Làm rõ sai phạm tại Viện Pháp y tâm thần Trung ương
+
+Vụ án bắt nguồn từ sự việc xảy ra vào đêm 7/6/2025 tại khu vực trạm dịch vụ bờ biển Hubway 13, bãi biển Sầm Sơn (phường Sầm Sơn, tỉnh Thanh Hóa). Công an thành phố Hà Nội phối hợp với Công an tỉnh Thanh Hóa bắt quả tang Lê Văn Đông có hành vi tổ chức sử dụng trái phép chất ma túy cho một số đối tượng, trong đó có Trần Quốc An (nhân viên Khoa Điều trị bắt buộc nam, Viện Pháp y tâm thần Trung ương). Cơ quan điều tra đã thu giữ tang vật là ma túy và các dụng cụ sử dụng ma túy của Lê Văn Đông.
+
+Tại thời điểm kiểm tra, 14 cán bộ, nhân viên thuộc Khoa Điều trị bắt buộc nam, Viện Pháp y tâm thần Trung ương đang nghỉ dưỡng tại khách sạn Long Thành 3 (đường Hồ Xuân Hương, phường Sầm Sơn, tỉnh Thanh Hóa), cùng địa điểm lưu trú với vợ chồng Lê Văn Đông và Nguyễn Thị Mai Anh.
+
+Cơ quan điều tra sau đó tiến hành khám xét khẩn cấp nơi ở và nơi chữa bệnh bắt buộc của vợ chồng Nguyễn Thị Mai Anh, thu giữ ma túy cùng các dụng cụ sử dụng ma túy.
+
+Quá trình mở rộng điều tra, cơ quan chức năng xác định có dấu hiệu của các hành vi: Nhận hối lộ; Đưa hối lộ; Môi giới hối lộ; Lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ; Đánh bạc; Làm sai lệch hồ sơ vụ án của một số lãnh đạo, giám định viên, cán bộ thuộc Viện Pháp y tâm thần Trung ương, Trung tâm Pháp y tâm thần khu vực miền núi phía Bắc, một số cán bộ cơ quan tiến hành tố tụng và các bị can, bị cáo, bị án trong các vụ án hình sự.
+
+Cơ quan điều tra cũng làm rõ hành vi Lừa đảo chiếm đoạt tài sản của Nguyễn Thị Mai Anh, Nguyễn Văn Hùng liên quan đến việc tác động làm sai lệch kết luận giám định pháp y tâm thần.
+
+Ngày 8/6/2025, cơ quan công an tiến hành khám xét buồng chữa bệnh của Lê Văn Đông tại Khoa Điều trị bắt buộc nam, Viện Pháp y tâm thần Trung ương, thu giữ chất bột màu trắng bên trong một túi nilon, được xác định là ma túy loại MDMA, khối lượng 0,686 gram; 3 bộ tẩu hút tự tạo có dính ma túy loại Methamphetamine; một điện thoại di động cùng một số thiết bị âm thanh, dụng cụ sử dụng ma túy.
+
+Lê Văn Đông khai nhận toàn bộ số đồ vật trên là của mình và được sử dụng để sử dụng ma túy trong thời gian điều trị tại Viện.
+
+Một số bị can trong vụ án xảy ra tại Viện Pháp y tâm thần Trung ương - Ảnh: VKSND thành phố Hà Nội
+
+Theo cáo trạng, trong thời gian chấp hành quyết định chữa bệnh bắt buộc tại Viện Pháp y tâm thần Trung ương, Nguyễn Thị Mai Anh đã sử dụng tiền và các lợi ích vật chất khác để hối lộ cán bộ, nhân viên của Viện theo tháng hoặc vào các dịp lễ, ngày nghỉ, nhằm để những người này bỏ qua các sai phạm của Mai Anh trong quá trình điều trị tại Viện.
+
+Ngoài ra, Mai Anh còn dùng tiền để tác động đến việc ban hành kết luận giám định không đúng tình trạng tâm thần của Lê Văn Đông; đồng thời môi giới cho nhiều đối tượng là bị can, bị cáo, bị án đưa hối lộ cho các thành viên Hội đồng giám định của Viện Pháp y tâm thần Trung ương và Trung tâm Pháp y tâm thần khu vực miền núi phía Bắc nhằm có được kết luận giám định pháp y tâm thần không đúng thực tế tình trạng bệnh, qua đó được áp dụng biện pháp chữa bệnh bắt buộc để trốn tránh việc bị giam giữ và chấp hành hình phạt tù.
+
+- Truy tố Phó Đức Nam và đồng phạm trong đường dây lừa đảo 'forex'
+
+- Đề nghị truy tố 65 bị can trong vụ án tại Viện Pháp y tâm thần Trung ương
+
+- Truy tố 4 lãnh đạo doanh nghiệp gây thiệt hại hơn 3.150 tỷ đồng
+
+- Truy tố 3 cựu Thẩm phán liên quan đến vụ "chạy án” tại tỉnh Đắk Lắk (cũ)
+
+Cơ quan điều tra xác định, Nguyễn Thị Mai Anh phải chịu trách nhiệm hình sự về hành vi đưa hối lộ với số tiền hơn 1,5 tỷ đồng. Đồng thời, bị can còn môi giới hối lộ cho nhiều bị can, bị cáo, bị án nhằm tác động để có được kết luận giám định tâm thần không đúng thực tế, qua đó được áp dụng biện pháp chữa bệnh bắt buộc.
+
+Theo kết quả điều tra, Mai Anh đã nhận tiền của nhiều đối tượng, sau đó chuyển một phần cho Trần Văn Trường (Viện trưởng Viện Pháp y tâm thần Trung ương), Hoàng Tất Thành (sinh năm 1967, bác sĩ Trung tâm Pháp y tâm thần khu vực miền núi phía Bắc) để tác động, làm sai lệch kết luận giám định tâm thần của các đối tượng. Số tiền còn lại, Mai Anh sử dụng cho mục đích cá nhân.
+
+Cơ quan điều tra xác định, số tiền Mai Anh phải chịu trách nhiệm hình sự về hành vi môi giới hối lộ để làm sai lệch kết luận giám định là hơn 5,9 tỷ đồng; số tiền bị can hưởng lợi từ hành vi này là hơn 3,3 tỷ đồng.
+
+Ngoài ra, Mai Anh còn bị xác định có hành vi lừa đảo chiếm đoạt tài sản khi đưa ra thông tin gian dối với bà Bùi Thị Kim Hòa và chị Khiếu Thị Thu Thảo về việc có thể tác động đến các cơ quan, người tiến hành tố tụng và Hội đồng giám định tâm thần để các bị can Bùi Tiến Anh (con bà Hòa) và Phạm Văn Hùng (chồng chị Thảo) được giám định tâm thần, kết luận mắc bệnh tâm thần và được áp dụng biện pháp chữa bệnh bắt buộc.
+
+Tin tưởng thông tin Mai Anh đưa ra là thật, bà Hòa đã chuyển gần 2,6 tỷ đồng, chị Thảo chuyển hơn 1,1 tỷ đồng để nhờ Mai Anh giúp Bùi Tiến Anh và Phạm Văn Hùng được đi chữa bệnh bắt buộc. Tuy nhiên, sau khi nhận tiền, Mai Anh không thực hiện việc tác động như cam kết mà sử dụng số tiền này vào mục đích cá nhân.
+
+"Cơ quan điều tra xác định, trong quá trình điều tra, Mai Anh không thành khẩn khai báo, quanh co, chối tội. Bị can thực hiện hành vi phạm tội có tính chất chuyên nghiệp, có tổ chức, có sự phân công vai trò chặt chẽ cho các đối tượng giúp sức; thủ đoạn phạm tội tinh vi, xảo quyệt nhằm che giấu hành vi vi phạm, gây khó khăn cho công tác phát hiện, xử lý của cơ quan chức năng", cáo trạng nêu.
+
+Đối với bị can Nguyễn Văn Hùng (sinh năm 1992, trú tại phường Lưu Kiếm, thành phố Hải Phòng), người từng có 2 tiền án và 2 tiền sự về các tội: "Lừa đảo chiếm đoạt tài sản", "Trộm cắp tài sản", "Sử dụng trái phép chất ma túy", "Hủy hoại tài sản", cơ quan điều tra xác định Hùng là người giúp sức tích cực cho Mai Anh trong việc thực hiện nhiều hành vi phạm tội.
+
+Kết quả điều tra xác định, Nguyễn Văn Hùng đã giúp sức cho Mai Anh móc nối với Lê Văn Cường (sinh năm 1970, cựu Trưởng khoa B, Bệnh viện Tâm thần Hà Nội) để nhờ Cường đặt vấn đề với Trần Văn Trường (Viện trưởng Viện Pháp y tâm thần Trung ương) ban hành kết luận giám định tâm thần không đúng tình trạng bệnh đối với Phùng Văn Oanh và Lê Đình Tiến.
+
+Hùng cũng giúp Mai Anh chuyển tiền cho Hoàng Tất Thành (sinh năm 1967, bác sĩ Trung tâm Pháp y tâm thần khu vực miền núi phía Bắc) để Hội đồng giám định đưa ra kết luận giám định tâm thần không đúng tình trạng bệnh đối với Đỗ Trần Cường. Tổng số tiền Nguyễn Văn Hùng giúp sức cho Mai Anh trong hành vi môi giới hối lộ đối với các trường hợp trên là 550 triệu đồng.
+
+Ngoài ra, Nguyễn Văn Hùng còn giúp sức cho Mai Anh thực hiện hành vi lừa đảo chiếm đoạt tổng số tiền 3,6 tỷ đồng của bà Bùi Thị Kim Hòa và chị Khiếu Thị Thu Thảo liên quan đến việc nhận tiền để "chạy" kết luận giám định tâm thần cho Bùi Tiến Anh và Phạm Văn Hùng.
+
+Nhận hối lộ hơn 8,1 tỷ đồng, cựu Viện trưởng can thiệp vào kết luận giám định tâm thần
+
+Theo cáo trạng, Trần Văn Trường là giám định viên pháp y tâm thần, giữ chức Viện trưởng Viện Pháp y tâm thần Trung ương từ tháng 6/2023 đến nay.
+
+Quá trình công tác, Trần Văn Trường bị xác định đã nhận trực tiếp tổng số tiền hơn 4,7 tỷ đồng từ Nguyễn Thị Mai Anh, Vũ Ngọc Trung, Trần Thị Hương và một số đối tượng khác để đưa ra kết luận giám định tâm thần không đúng thực trạng bệnh của 28 trường hợp là bị can, bị cáo, bị án, xác định các đối tượng này mất khả năng nhận thức và điều khiển hành vi để được áp dụng biện pháp chữa bệnh bắt buộc.
+
+Sau khi nhận tiền, Trường chia một phần cho các thành viên khác trong Hội đồng giám định như Ngô Văn Vinh, Dương Văn Lương, Lâm Văn Thành, Nguyễn Tô Hiệu, Dương Văn Biết... và hưởng lợi số tiền còn lại.
+
+Ngoài ra, quá trình điều tra có căn cứ xác định Trần Văn Trường còn nhận tổng số tiền hơn 3,3 tỷ đồng từ Nguyễn Thị Thu Hoài (Phó Trưởng phòng Tổ chức cán bộ) để tuyển dụng một số cá nhân vào làm việc tại Viện Pháp y tâm thần Trung ương; đồng thời nhận tiền từ Mai Anh để tạo điều kiện cho Mai Anh được bố trí phòng riêng cùng hai con nhỏ và xin cho một số nhân viên của Viện được đi học, chuyển khoa.
+
+Tổng số tiền Trần Văn Trường bị xác định phải chịu trách nhiệm hình sự về hành vi nhận hối lộ là hơn 8,1 tỷ đồng; số tiền bị can hưởng lợi cá nhân là hơn 6,9 tỷ đồng.
+
+Cấp dưới được xác định giúp sức tích cực cho Trần Văn Trường là Nguyễn Thị Thu Hoài, cựu Phó Trưởng phòng Tổ chức cán bộ, Viện Pháp y tâm thần Trung ương. Cơ quan tố tụng xác định, trong quá trình công tác, lợi dụng việc tuyển dụng cán bộ của Viện, bị can này đã nhận và hưởng lợi 510 triệu đồng.

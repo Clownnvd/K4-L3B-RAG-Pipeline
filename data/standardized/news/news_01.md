@@ -1,0 +1,49 @@
+---
+title: "20 năm hoạt động của Miu Lê trước khi bị bắt quả tang dùng ma túy"
+source: "news_01.json"
+url: "https://vnexpress.net/20-nam-hoat-dong-cua-miu-le-truoc-khi-bi-bat-qua-tang-dung-ma-tuy-5072922.html"
+doc_type: "news"
+knowledge_base: "news"
+source_domain: "vnexpress.net"
+date_crawled: "2026-09-21T10:42:48.183337+00:00"
+source_tier: "major_news_outlet"
+claim_status: "reported_by_media_as_caught"
+sha256: "68ccdd826d5e7283aca42ccb1f8d645a6ecf74fae53e36b6cf36896f9dc3f697"
+---
+# 20 năm hoạt động của Miu Lê trước khi bị bắt quả tang dùng ma túy
+
+# 20 năm hoạt động của Miu Lê trước khi bị bắt quả tang dùng ma túy
+
+Miu Lê, 35 tuổi, là diễn viên phim trăm tỷ kiêm ca sĩ có nhiều bản hit gây chú ý với khán giả trước khi bị phát hiện vướng vào tệ nạn.
+
+Hôm 10/5, ca sĩ Miu Lê (tên thật Lê Ánh Nhật, 35 tuổi) bị bắt quả tang cùng nhóm bạn sử dụng ma túy tại Hải Phòng.Theo cơ quan chức năng, kết quả xét nghiệm nhanh cho thấy cô dương tính với ba loại chất cấm. Hiện, cô và những người liên quan bị tạm giam để điều tra.
+
+Trước biến cố này, cô là gương mặt quen thuộc với nhiều người, khá kín tiếng chuyện đời tư và tập trung hoạt động nghệ thuật. Gần nhất, ca sĩ đóng phim Đại tiệc trăng máu 8, ra mắt ngày 24/4. Cô vào vai một Tiktoker lần đầu lấn sân điện ảnh. Cô quay nhiều phân đoạn không cắt cảnh (one-shot) dài 30 phút. Diễn viên từng cho biết phải vừa chạy vừa thoại, vừa giữ cảm xúc trong điều kiện gặp áp lực về tinh thần lẫn thể lực.
+
+Miu Lê nói về áp lực đóng cảnh one-shot trong "Đại tiệc trăng máu 8", ở suất chiếu sớm cho truyền thông, hôm 17/4. Video: Mai Nhật
+
+Tại cuộc phỏng vấn dịp trở lại màn ảnh, cô nói đang độc thân và tìm cách cân bằng mọi thứ để có thể tập trung làm nghề. Miu Lê đặt mục tiêu duy trì ca hát lẫn diễn xuất, mong muốn thử sức với những vai diễn có chiều sâu tâm lý, gai góc. Năm ngoái, ca sĩ tham gia thi Em xinh say hi, gây chú ý nhờ phong cách nhí nhảnh, lối giao lưu hài hước.
+
+Miu Lê lớn lên trong gia đình điều kiện bình thường, bén duyên với nghệ thuật từ năm 16 tuổi. Sinh năm 1991 tại TP HCM, quê gốc ở Huế. Trong chương trình Studio 3, đạo diễn Lê Hoàng nói gặp Miu Lê khi cô mới 16 tuổi, casting cho phim Thủ tướng. Lúc đó, do chưa đủ tuổi, mẹ phải thay cô ký hợp đồng. Cát-xê của cô lúc ấy là tám triệu đồng cho 11 ngày quay.
+
+Khi đóng series Những thiên thần áo trắng, do Miu Lê còn nhỏ, đạo diễn coi cô như con cháu trong nhà, thường đưa cô về nhà sau các buổi quay muộn. Ông nhớ ngày quay cuối cùng, Miu Lê khóc nhiều vì tiếc nuối khi không còn được diễn.
+
+Miu Lê ghi dấu với điện ảnh qua các phim của đạo diễn Phan Gia Nhật Linh như Em là bà nội của anh, Cô gái đến từ hôm qua. Trong Em là bà nội của anh , cô thể hiện cùng lúc hình ảnh một bà cụ và một cô gái đôi mươi, là phiên bản của bà cụ khi được quay ngược thời gian. Chiếc lưng còng, những biểu cảm trên nét mặt, giọng nói của cô thuyết phục người xem tin vào nhân vật. Tác phẩm đạt doanh thu 102 tỷ đồng, là hiện tượng của năm 2015. Với Cô gái đến từ hôm qua , cô và Ngô Kiến Huy tái hiện mối tình thanh xuân, đạt doanh thu 70 tỷ đồng. Ngoài ra, cô còn đóng chính các phim như Nhà có năm nàng tiên, Bạn gái tôi là sếp.
+
+Miu Lê hát "Còn tuổi nào cho em" (nhạc sĩ Trịnh Công Sơn). Êkíp cung cấp
+
+Đạo diễn Lê Hoàng từng đánh giá: "Miu Lê là diễn viên giỏi, lăn xả, nhất là trong những phân đoạn cần chất điên. Bằng chứng là sau này cô ấy rất thành công với Em là bà nội của anh ".
+
+Nhờ hiệu ứng điện ảnh, các bản nhạc phim cô thể hiện trong Em là bà nội của anh (bài Mình yêu từ bao giờ, Diễm xưa, Còn tuổi nào cho em ), Cô gái đến từ hôm qua (bài Cô gái ngày hôm qua ) được nhiều khán giả yêu thích. Năm 2023, cô có hit Vì mẹ anh bắt chia tay , kết hợp Karik, đạt 131 triệu lượt xem trên YouTube. Ngoài ra, cô ghi dấu với các bản ballad như Lặng thầm yêu, Em vẫn hy vọng, Giả vờ nhưng em yêu anh.
+
+Cô từng nói không giỏi bằng các đồng nghiệp nhưng biết điểm mạnh, điểm yếu của bản thân để nỗ lực. Chẳng hạn, với âm nhạc, cô hiểu rõ quãng giọng, điểm hạn chế ở đâu để chọn bài thích hợp. Ngoài ra, Miu Lê duy trì sự cầu toàn, khó tính trong công việc. Khi làm MV Cô đơn đã quá bình thường , dù đã quay xong kịch bản trên núi, cô quyết định bỏ vì một câu hát nhắc đến biển.
+
+MV "Vì mẹ anh bắt chia tay".
+
+Miu Lê có thời được khán giả gọi là "yêu nữ hàng hiệu" vì thường công khai hình ảnh sử dụng những món đồ đắt tiền. Trong một talkshow, cô cho biết giai đoạn đó, cô muốn trải nghiệm những món đồ cao cấp, trưng trổ cho người khác xem. Khi mẹ khuyên "đừng ném tiền qua cửa sổ", cô bỏ ngoài tai. Thời dịch, khi không có thu nhập, cô mới trân trọng đồng tiền, ngưng thú vui trải nghiệm hàng hiệu.
+
+Ca sĩ cũng có nhiều phát ngôn gây tranh cãi khi tham gia các show thực tế, dự sự kiện. Khi quảng bá Đại tiệc trăng máu 8 cùng Liên Bỉnh Phát, cô nói anh "có vấn đề tâm lý" và được đồng nghiệp nhắc nhở. Năm 2017, khi tham gia show Sao đại chiến và bị nhạc sĩ Dương Cầm chê giọng yếu, cô nói khi tìm kiếm tên anh trên Google, kết quả chỉ ra hình ảnh đàn piano, ám chỉ nhạc sĩ kém nổi tiếng. Miu Lê tự nhận có tính cách thẳng thắn, khi không thích điều gì sẽ bày tỏ quan điểm trực tiếp.
+
+Diễn viên Phi Thanh Vân - đóng vai cô hiệu trưởng phim Những thiên thần áo trắng - nhớ thời tham gia series, Miu Lê có ánh mắt trong, nụ cười vô tư, thường ríu rít kể chuyện đời, chuyện nghề với đàn chị.
+
+"Nếu sai thì đối diện. Nếu lạc đường thì quay lại. Một sai lầm không nên là dấu chấm hết của cả cuộc đời", diễn viên Phi Thanh Vân nói.

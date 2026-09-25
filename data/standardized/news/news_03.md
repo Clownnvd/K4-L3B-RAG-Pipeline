@@ -1,0 +1,61 @@
+---
+title: "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng"
+source: "news_03.json"
+url: "https://vtv.vn/miu-le-truoc-khi-bi-bat-qua-tang-su-dung-ma-tuy-100260512123207532.htm"
+doc_type: "news"
+knowledge_base: "news"
+source_domain: "vtv.vn"
+date_crawled: "2026-09-21T10:42:49.516004+00:00"
+source_tier: "government_or_public_broadcaster"
+claim_status: "reported_by_media_as_caught"
+sha256: "3b2414d2e69e2434591115615fd24c3dbd6c144edfe5a64171d431b1cb236e93"
+---
+# Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng
+
+Thông tin ca sĩ, diễn viên Miu Lê bị bắt quả tang cùng nhóm bạn sử dụng trái phép ma túy tại khu vực bãi tắm Tùng Thu, đặc khu Cát Hải, Hải Phòng đang gây chú ý lớn trong dư luận. Theo thông tin từ cơ quan chức năng được nhiều báo đăng tải, Lê Ánh Nhật, tức Miu Lê, nằm trong nhóm 6 người bị đưa về trụ sở để làm rõ sau khi bị phát hiện có hành vi sử dụng trái phép chất ma túy; kết quả test nhanh cho thấy cô dương tính với Methamphetamine, Ketamine và MDMA. Hiện, cô và những người liên quan bị tạm giam để điều tra.
+
+Cơ quan Công an làm việc với nhóm đối tượng, trong đó có ca sĩ Miu Lê. Ảnh: Cơ quan Công an.
+
+Trước khi vướng vào vụ việc này, Miu Lê từng là một gương mặt quen thuộc của làng giải trí Việt. Cô thuộc nhóm nghệ sĩ hiếm hoi có thể tạo dấu ấn ở cả hai lĩnh vực: ca hát và diễn xuất. Từ hình ảnh cô gái trẻ bước ra từ phim truyền hình, Miu Lê từng có giai đoạn trở thành cái tên ăn khách của điện ảnh Việt, đồng thời sở hữu nhiều ca khúc được khán giả trẻ yêu thích.
+
+Miu Lê tên thật là Lê Ánh Nhật, sinh năm 1991. Cô bước vào làng giải trí từ năm 2009 khi tham gia bộ phim Những thiên thần áo trắng của đạo diễn Lê Hoàng. Đây cũng là tác phẩm giúp cô bắt đầu được khán giả trẻ biết đến. Nghệ danh Miu Lê được cho là lấy cảm hứng từ nhân vật July Miu trong bộ phim đầu tay kết hợp với họ thật của nữ nghệ sĩ.
+
+Miu Lê trong vai July Miu trong Những thiên thần áo trắng - Ảnh: Miu Lê.
+
+Sau các vai diễn đầu tiên, Miu Lê dần chuyển hướng mạnh hơn sang ca hát, rồi trở thành một trong những nghệ sĩ trẻ được chú ý của V-pop trong thập niên 2010.
+
+Ở lĩnh vực âm nhạc, Miu Lê từng gắn với nhiều ca khúc được khán giả trẻ yêu thích như Không gian vắng , Yêu một người có lẽ , Giá như cô ấy chưa xuất hiện, Gác lại âu lo . Những bài hát này góp phần định hình hình ảnh Miu Lê như một nữ ca sĩ pop ballad giàu cảm xúc, thường kể những câu chuyện tình yêu gần với tâm trạng của người trẻ.
+
+Sau một thời gian tập trung cho điện ảnh và các hoạt động giải trí khác, Miu Lê có màn trở lại đáng chú ý với ca khúc Vì mẹ anh bắt chia tay vào năm 2022. Đây là sản phẩm kết hợp giữa Miu Lê, rapper Karik và nhạc sĩ Châu Đăng Khoa. Ca khúc nhanh chóng tạo hiệu ứng trên mạng xã hội, được chia sẻ rộng rãi và trở thành một trong những sản phẩm âm nhạc nổi bật của cô trong giai đoạn sau.
+
+Thành công của Vì mẹ anh bắt chia tay cho thấy Miu Lê vẫn có khả năng bắt nhịp với thị trường âm nhạc mới, nơi một ca khúc không chỉ cần được nghe trên nền tảng nhạc số mà còn phải có khả năng lan truyền trên mạng xã hội. Sự kết hợp với Karik cũng giúp hình ảnh Miu Lê trở nên mới mẻ hơn, tạo cảm giác cô có thể quay lại đường đua V-pop sau một thời gian không quá dày đặc sản phẩm.
+
+Miu Lê kết hợp cùng Karik trong dự án Vì mẹ anh bắt chia tay - Ảnh: FBNV
+
+Từ những ca khúc ballad nhiều cảm xúc đến các sản phẩm bắt nhịp xu hướng, Miu Lê từng cho thấy khả năng duy trì độ nhận diện trong âm nhạc. Dù không phải nghệ sĩ phát hành sản phẩm liên tục, mỗi lần trở lại của cô vẫn có khả năng tạo bàn luận, phần nào nhờ hình ảnh cá nhân đã quen thuộc với công chúng.
+
+## Bước ngoặt điện ảnh với Em là bà nội của anh
+
+Nếu âm nhạc giúp Miu Lê có tệp khán giả riêng, thì điện ảnh mới là lĩnh vực đưa tên tuổi cô phủ sóng rộng hơn. Dấu mốc lớn nhất trong sự nghiệp diễn xuất của Miu Lê là bộ phim Em là bà nội của anh , ra rạp cuối năm 2015. Trong phim, cô vào vai Thanh Nga - cô gái trẻ mang tâm hồn của một người phụ nữ lớn tuổi. Đây là vai diễn đòi hỏi Miu Lê phải xử lý đồng thời hai lớp tính cách: vẻ ngoài trẻ trung và nội tâm, cử chỉ, cách nói chuyện của một người già.
+
+Poster của phim Em là bà nội của anh.
+
+Vai diễn Thanh Nga giúp Miu Lê thoát khỏi hình ảnh một gương mặt trẻ đóng phim giải trí đơn thuần. Cô được ghi nhận bởi khả năng diễn xuất tự nhiên, cảm xúc và có sự tiết chế nhất định. Đặc biệt, các phần âm nhạc trong phim cũng giúp lợi thế ca hát của Miu Lê được phát huy, tạo nên sự kết nối giữa hai thế mạnh của cô: diễn xuất và giọng hát.
+
+Miu Lê trong vai Việt An tại Cô gái đến từ hôm qua - Ảnh chụp màn hình.
+
+Sau Em là bà nội của anh , Miu Lê tiếp tục góp mặt trong một số dự án điện ảnh như Bạn gái tôi là sếp , Cô gái đến từ hôm qua , Nắng 2 . Không phải tác phẩm nào cũng tạo được hiệu ứng lớn như vai diễn Thanh Nga, nhưng các dự án này góp phần củng cố hình ảnh Miu Lê như một nghệ sĩ có khả năng di chuyển giữa âm nhạc và điện ảnh.
+
+Trong showbiz Việt, không nhiều nghệ sĩ có thể duy trì độ nhận diện ở cả ca hát lẫn diễn xuất trong thời gian dài. Miu Lê từng là một trong những trường hợp như vậy. Cô có thể xuất hiện trong một dự án điện ảnh thương mại, phát hành sản phẩm âm nhạc, tham gia chương trình giải trí và vẫn giữ được hình ảnh gần gũi với khán giả trẻ.
+
+Ở giai đoạn sau, Miu Lê không hoạt động với tần suất quá dày đặc, nhưng mỗi lần xuất hiện vẫn dễ trở thành chủ đề quan tâm. Từ các sản phẩm âm nhạc đến phim ảnh, cô thường được nhắc đến như một nghệ sĩ có duyên với những nội dung giải trí đại chúng. Gần đây, Miu Lê tiếp tục xuất hiện trong các dự án điện ảnh mới, cho thấy cô vẫn duy trì vị trí trong thị trường giải trí Việt.
+
+Miu Lê vào vai nữ chính trong phim “Đại tiệc trăng máu 8“. Ảnh: ĐPCC.
+
+Chính vì vậy, thông tin Miu Lê bị phát hiện liên quan đến vụ sử dụng trái phép chất ma túy khiến nhiều khán giả bất ngờ. Với một nghệ sĩ từng có sự nghiệp được xây dựng qua nhiều năm, vụ việc không chỉ là câu chuyện đời tư mà còn đặt ra câu hỏi về trách nhiệm hình ảnh của người nổi tiếng trước công chúng.
+
+Với người hoạt động trong lĩnh vực giải trí, việc tuân thủ pháp luật, giữ gìn hình ảnh và ý thức trách nhiệm trước công chúng càng cần được đặt lên hàng đầu. Nghệ sĩ là những người có sức ảnh hưởng nhất định tới khán giả, đặc biệt là giới trẻ, vì vậy mỗi hành vi lệch chuẩn đều có thể tạo ra tác động xã hội vượt khỏi phạm vi cá nhân.
+
+Từ vụ việc đang được dư luận quan tâm, điều cần được nhấn mạnh không phải là sự phán xét đối với một cá nhân cụ thể, mà là thái độ rõ ràng trước hành vi sử dụng chất cấm. Đây cũng là lời nhắc về trách nhiệm nói không với ma túy, xây dựng lối sống lành mạnh và thượng tôn pháp luật trong đời sống cộng đồng, trong đó có môi trường giải trí.
+
+VTV.vn - Làn sóng nghệ sĩ vướng vào chất cấm đang gây chấn động dư luận. Những cái tên từng là thần tượng của giới trẻ lần lượt vi phạm pháp luật.

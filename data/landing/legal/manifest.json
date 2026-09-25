@@ -1,0 +1,41 @@
+[
+  {
+    "filename": "luat-phong-chong-ma-tuy-vbhn-117-2025.pdf",
+    "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+    "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/9/117-vbhn-vpqha.pdf",
+    "source_page": "https://vanban.chinhphu.vn/?docid=215316&pageid=27160",
+    "issued_date": "2025-08-27",
+    "effective_date": null,
+    "authority": "Văn phòng Quốc hội",
+    "knowledge_base": "law",
+    "bytes": 982042,
+    "sha256": "4bb235aa172021d65a92a73a4224e5d00a8b719b9db9b69081df424b75268e09",
+    "downloaded_at": "2026-09-21T10:48:15.497216+00:00"
+  },
+  {
+    "filename": "bo-luat-hinh-su-vbhn-135-2025.pdf",
+    "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+    "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/9/135-vbhn-vpqh.pdf",
+    "source_page": "https://vanban.chinhphu.vn/?docid=215260&pageid=27160",
+    "issued_date": "2025-09-05",
+    "effective_date": null,
+    "authority": "Văn phòng Quốc hội",
+    "knowledge_base": "law",
+    "bytes": 2658760,
+    "sha256": "ce7f1dc86e2f40c102f26e5d6980519d51842f864070a979939e182125400155",
+    "downloaded_at": "2026-09-21T10:48:15.770618+00:00"
+  },
+  {
+    "filename": "nghi-dinh-144-2021-xu-phat-an-ninh-trat-tu.pdf",
+    "title": "Nghị định 144/2021/NĐ-CP về xử phạt hành chính an ninh, trật tự",
+    "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/01/144.signed.pdf",
+    "source_page": "https://vanban.chinhphu.vn/?classid=1&docid=204979&pageid=27160&typegroupid=4",
+    "issued_date": "2021-12-31",
+    "effective_date": "2022-01-01",
+    "authority": "Chính phủ",
+    "knowledge_base": "law",
+    "bytes": 4541775,
+    "sha256": "7baad192cc56050a3d07e1261ab04642e5ff873cd9f1969ca29234ac432e7d96",
+    "downloaded_at": "2026-09-21T10:48:16.304779+00:00"
+  }
+]

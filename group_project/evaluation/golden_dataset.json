@@ -1,0 +1,153 @@
+[
+  {
+    "question": "Miu Lê được phát hiện trong vụ việc ma túy ở đâu?",
+    "expected_answer": "Các nguồn tin ghi nhận địa điểm là bãi tắm Tùng Thu, đảo Cát Bà, đặc khu Cát Hải, thành phố Hải Phòng.",
+    "expected_context": "news_02 và news_03: bãi tắm Tùng Thu, đảo Cát Bà, Cát Hải, Hải Phòng",
+    "expected_sources": [
+      "news/news_02.md",
+      "news/news_03.md"
+    ]
+  },
+  {
+    "question": "Vụ việc liên quan Miu Lê được kiểm tra lúc nào và có bao nhiêu người liên quan?",
+    "expected_answer": "Theo thông tin ban đầu, việc kiểm tra diễn ra khoảng 12 giờ 30 ngày 10/5 và phát hiện sáu người liên quan.",
+    "expected_context": "news_02: khoảng 12 giờ 30 ngày 10.5; danh sách 6 người",
+    "expected_sources": [
+      "news/news_02.md"
+    ]
+  },
+  {
+    "question": "Tên thật của Miu Lê là gì?",
+    "expected_answer": "Tên thật được các nguồn ghi là Lê Ánh Nhật.",
+    "expected_context": "news_01, news_02 hoặc news_03: Miu Lê tên thật Lê Ánh Nhật",
+    "expected_sources": [
+      "news/news_01.md",
+      "news/news_02.md",
+      "news/news_03.md"
+    ]
+  },
+  {
+    "question": "Nguồn VTV nêu kết quả test nhanh của Miu Lê dương tính với những chất nào?",
+    "expected_answer": "Nguồn VTV nêu Methamphetamine, Ketamine và MDMA.",
+    "expected_context": "news_03: dương tính với Methamphetamine, Ketamine và MDMA",
+    "expected_sources": [
+      "news/news_03.md"
+    ]
+  },
+  {
+    "question": "Có thể kết luận Miu Lê đã bị kết án từ các bài báo trong corpus không?",
+    "expected_answer": "Không. Corpus chỉ ghi nhận bị phát hiện hoặc đang làm việc với công an, bị tạm giữ/điều tra; không có bản án có hiệu lực trong các nguồn này.",
+    "expected_context": "news_01 đến news_03: đang điều tra, xác minh; không có thông tin kết án",
+    "expected_sources": [
+      "news/news_01.md",
+      "news/news_02.md",
+      "news/news_03.md"
+    ]
+  },
+  {
+    "question": "Hành vi sử dụng trái phép chất ma túy bị xử phạt hành chính thế nào theo Nghị định 144/2021?",
+    "expected_answer": "Khoản 1 Điều 23 quy định phạt cảnh cáo hoặc phạt tiền từ 1.000.000 đến 2.000.000 đồng.",
+    "expected_context": "Nghị định 144/2021/NĐ-CP, khoản 1 Điều 23",
+    "expected_sources": [
+      "legal/nghi-dinh-144-2021-xu-phat-an-ninh-trat-tu.md"
+    ]
+  },
+  {
+    "question": "Chỉ sử dụng trái phép chất ma túy có tự động cấu thành tội hình sự không?",
+    "expected_answer": "Không tự động. Hành vi sử dụng trái phép được Nghị định 144 quy định xử phạt hành chính; trách nhiệm hình sự phụ thuộc hành vi khác như tàng trữ, mua bán hoặc tổ chức sử dụng và các yếu tố cấu thành tương ứng.",
+    "expected_context": "Nghị định 144 Điều 23; Bộ luật Hình sự các điều 249–255",
+    "expected_sources": [
+      "legal/nghi-dinh-144-2021-xu-phat-an-ninh-trat-tu.md",
+      "legal/bo-luat-hinh-su-vbhn-135-2025.md"
+    ]
+  },
+  {
+    "question": "Luật Phòng, chống ma túy cấm những hành vi nào liên quan việc sử dụng?",
+    "expected_answer": "Điều 5 cấm sử dụng và tổ chức sử dụng trái phép; cưỡng bức, lôi kéo, chứa chấp hoặc hỗ trợ người khác sử dụng trái phép chất ma túy.",
+    "expected_context": "Luật Phòng, chống ma túy, Điều 5 khoản 5",
+    "expected_sources": [
+      "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md"
+    ]
+  },
+  {
+    "question": "Người sử dụng trái phép chất ma túy được Luật Phòng, chống ma túy định nghĩa thế nào?",
+    "expected_answer": "Là người sử dụng chất ma túy không được cơ quan hoặc người chuyên môn có thẩm quyền cho phép và có kết quả xét nghiệm chất ma túy trong cơ thể dương tính.",
+    "expected_context": "Luật Phòng, chống ma túy, Điều 2 khoản 10",
+    "expected_sources": [
+      "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md"
+    ]
+  },
+  {
+    "question": "Thời hạn quản lý người sử dụng trái phép chất ma túy là bao lâu?",
+    "expected_answer": "Một năm kể từ ngày Chủ tịch UBND cấp xã ra quyết định quản lý.",
+    "expected_context": "Luật Phòng, chống ma túy, Điều 23 khoản 2",
+    "expected_sources": [
+      "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md"
+    ]
+  },
+  {
+    "question": "Trong vụ 48 đối tượng tại TPHCM, Lê Duy Linh bị xác định có dấu hiệu những hành vi nào?",
+    "expected_answer": "Nguồn tin nêu dấu hiệu tổ chức sử dụng trái phép chất ma túy và riêng Lê Duy Linh còn có hành vi tàng trữ trái phép chất ma túy.",
+    "expected_context": "news_04: Lê Duy Linh/Tăng Nhật Tuệ, tổ chức sử dụng và tàng trữ",
+    "expected_sources": [
+      "news/news_04.md"
+    ]
+  },
+  {
+    "question": "Vụ tại Viện Pháp y tâm thần Trung ương truy tố bao nhiêu bị can và gồm các nhóm tội ma túy nào?",
+    "expected_answer": "Vụ án truy tố 65 bị can; các tội danh ma túy được nêu gồm tàng trữ trái phép và tổ chức sử dụng trái phép chất ma túy.",
+    "expected_context": "news_05: 65 bị can; tàng trữ và tổ chức sử dụng trái phép chất ma túy",
+    "expected_sources": [
+      "news/news_05.md"
+    ]
+  },
+  {
+    "question": "Đường dây ma túy xuyên biên giới bị thu giữ bao nhiêu ma túy và bắt giữ, mời làm việc bao nhiêu người?",
+    "expected_answer": "Nguồn VTV ghi nhận hơn 10 kg Methamphetamine và 65 người bị bắt giữ hoặc mời làm việc.",
+    "expected_context": "news_06: hơn 10 kg Methamphetamine, 65 đối tượng",
+    "expected_sources": [
+      "news/news_06.md"
+    ]
+  },
+  {
+    "question": "Đường dây xuyên biên giới trong corpus bị khởi tố về những nhóm hành vi ma túy nào?",
+    "expected_answer": "Các nhóm hành vi được nêu là tàng trữ, mua bán và tổ chức sử dụng trái phép chất ma túy.",
+    "expected_context": "news_06: khởi tố về tàng trữ, mua bán, tổ chức sử dụng",
+    "expected_sources": [
+      "news/news_06.md"
+    ]
+  },
+  {
+    "question": "Trong chuyên án tại phường Bảy Hiền, người mua ma túy để dùng một mình được xử lý ra sao?",
+    "expected_answer": "Mười người thuộc nhóm này bị xử phạt hành chính và đưa đi cai nghiện bắt buộc vì không liên quan hành vi tổ chức của các nhánh.",
+    "expected_context": "news_07: xử phạt hành chính và đưa đi cai nghiện bắt buộc 10 đối tượng",
+    "expected_sources": [
+      "news/news_07.md"
+    ]
+  },
+  {
+    "question": "Điều 249 Bộ luật Hình sự điều chỉnh hành vi gì?",
+    "expected_answer": "Điều 249 điều chỉnh tội tàng trữ trái phép chất ma túy, tức cất giữ hoặc cất giấu bất hợp pháp mà không nhằm mục đích mua bán, vận chuyển hoặc sản xuất, khi đủ điều kiện cấu thành.",
+    "expected_context": "Bộ luật Hình sự Điều 249 về tội tàng trữ trái phép chất ma túy",
+    "expected_sources": [
+      "legal/bo-luat-hinh-su-vbhn-135-2025.md"
+    ]
+  },
+  {
+    "question": "Điều 255 Bộ luật Hình sự liên quan hành vi nào?",
+    "expected_answer": "Điều 255 liên quan tội tổ chức sử dụng trái phép chất ma túy, không đồng nhất với việc một người chỉ tự sử dụng.",
+    "expected_context": "Bộ luật Hình sự Điều 255 về tổ chức sử dụng trái phép chất ma túy",
+    "expected_sources": [
+      "legal/bo-luat-hinh-su-vbhn-135-2025.md"
+    ]
+  },
+  {
+    "question": "Phân biệt sử dụng trái phép và tổ chức sử dụng trái phép chất ma túy về hướng xử lý.",
+    "expected_answer": "Sử dụng trái phép đơn thuần thuộc hướng xử phạt hành chính theo Điều 23 Nghị định 144; tổ chức cho người khác sử dụng có thể bị truy cứu theo Điều 255 Bộ luật Hình sự nếu đủ yếu tố cấu thành.",
+    "expected_context": "Nghị định 144 Điều 23 và Bộ luật Hình sự Điều 255",
+    "expected_sources": [
+      "legal/nghi-dinh-144-2021-xu-phat-an-ninh-trat-tu.md",
+      "legal/bo-luat-hinh-su-vbhn-135-2025.md"
+    ]
+  }
+]

@@ -1,0 +1,1662 @@
+{
+  "config_a": [
+    {
+      "answer": "Các căn cứ truy xuất được:\n- ## (Chinhphu.vn) - Trong số 48 đối tượng bị phát hiện sử dụng trái phép chất ma túy có Lê Duy Linh, nghệ danh Tăng Nhật Tuệ, nghề nghiệp ca sĩ, nhạc sĩ. [S1]\n- Qua xác minh, lực lượng công an phát hiện Trần Nhật Quang, sinh năm 1999, có dấu hiệu mua bán trái phép chất ma túy; đồng thời làm rõ Nguyễn Bảo Ân, sinh năm 1995, nghi là nguồn cung ma túy cho Quang để bán lại cho các đối tượng sử dụng. [S2]\n- Ca sĩ Miu Lê làm việc với công an vì liên quan đến ma túy [S3]\n- Trước đó, qua công tác nắm địa bàn, lực lượng chức năng phát hiện vụ việc vi phạm pháp luật về ma túy xảy ra tại địa bàn thành phố. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 0.5,
+      "context_precision": 0.16666666666666666,
+      "faithfulness": 1.0,
+      "latency_ms": 64.88889997126535,
+      "answer_relevance": 0.27617990065327447,
+      "retrieved": [
+        {
+          "id": "news/news_04.md::chunk-0001",
+          "score": 0.6807808876037598,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_04.md::chunk-0002",
+          "score": 0.6427026391029358,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_02.md::chunk-0000",
+          "score": 0.6391458511352539,
+          "title": "Cuộc sống của Miu Lê trước khi bị điều tra liên quan đến ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_06.md::chunk-0001",
+          "score": 0.6287024021148682,
+          "title": "Triệt phá đường dây ma túy xuyên biên giới, bắt giữ 65 đối tượng, 10kg chất cấm",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_05.md::chunk-0006",
+          "score": 0.6148636937141418,
+          "title": "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_07.md::chunk-0001",
+          "score": 0.6124259233474731,
+          "title": "TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền",
+          "knowledge_base": "news"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- c) Xúi giục, lôi kéo, kích động người khác phạm tội; [S1]\n- # Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH [S2]\n- d) Đối với người mà người phạm tội có trách nhiệm chăm sóc, giáo dục, [S3]\n- Qua kiểm tra, khám xét, lực lượng công an thu giữ ma túy các loại gồm Methamphetamine, Ketamine, MDMA cùng nhiều dụng cụ sử dụng ma túy, 49 điện thoại di động, 4 máy tính bảng, 1 laptop và 14 xe gắn máy. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 0.0,
+      "context_precision": 0.0,
+      "faithfulness": 1.0,
+      "latency_ms": 75.40209998842329,
+      "answer_relevance": 0.22111195318305227,
+      "retrieved": [
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1022",
+          "score": 0.54872065782547,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0000",
+          "score": 0.5436230897903442,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0228",
+          "score": 0.5033601522445679,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "news/news_04.md::chunk-0003",
+          "score": 0.49640953540802,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_05.md::chunk-0005",
+          "score": 0.49099260568618774,
+          "title": "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0525",
+          "score": 0.4885525703430176,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Miu Lê tên thật là Lê Ánh Nhật, sinh năm 1991. [S1]\n- Miu Lê ghi dấu với điện ảnh qua các phim của đạo diễn Phan Gia Nhật Linh như Em là bà nội của anh, Cô gái đến từ hôm qua. [S2]\n- Miu Lê tên thật là Lê Ánh Nhật, sinh năm 1991. [S3]\n- Vai diễn Thanh Nga giúp Miu Lê thoát khỏi hình ảnh một gương mặt trẻ đóng phim giải trí đơn thuần. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 1.0,
+      "faithfulness": 1.0,
+      "latency_ms": 95.04450001986697,
+      "answer_relevance": 0.4869307187228251,
+      "retrieved": [
+        {
+          "id": "news/news_03.md::chunk-0001",
+          "score": 0.5709102749824524,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_01.md::chunk-0004",
+          "score": 0.542410135269165,
+          "title": "20 năm hoạt động của Miu Lê trước khi bị bắt quả tang dùng ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_02.md::chunk-0003",
+          "score": 0.533562183380127,
+          "title": "Cuộc sống của Miu Lê trước khi bị điều tra liên quan đến ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_03.md::chunk-0006",
+          "score": 0.5195382833480835,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_01.md::chunk-0005",
+          "score": 0.5152461528778076,
+          "title": "20 năm hoạt động của Miu Lê trước khi bị bắt quả tang dùng ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_03.md::chunk-0005",
+          "score": 0.5065787434577942,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Đáng chú ý, tính chất manh động của đường dây này còn thể hiện qua việc tàng trữ vũ khí nóng. [S1]\n- Ngày 8/6/2025, cơ quan công an tiến hành khám xét buồng chữa bệnh của Lê Văn Đông tại Khoa Điều trị bắt buộc nam, Viện Pháp y tâm thần Trung ương, thu giữ chất bột màu trắng bên trong một túi nilon, được xác định là ma túy loại MDMA, khối lượng 0,686 gram; 3 bộ tẩu hút tự tạo có dính ma túy loại Methamphetamine; một điện thoại di động cùng một số thiết bị âm thanh, dụng cụ sử dụng ma túy. [S2]\n- Qua kiểm tra, lực lượng chức năng phát hiện Cao Minh Nhựt dương tính với chất ma túy. [S3]\n- Xét nghiệm chất ma túy trong cơ thể được thực hiện đối với người thuộc [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 0.0,
+      "context_precision": 0.0,
+      "faithfulness": 1.0,
+      "latency_ms": 100.75029998552054,
+      "answer_relevance": 0.5783519784472642,
+      "retrieved": [
+        {
+          "id": "news/news_06.md::chunk-0004",
+          "score": 0.33392882347106934,
+          "title": "Triệt phá đường dây ma túy xuyên biên giới, bắt giữ 65 đối tượng, 10kg chất cấm",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_05.md::chunk-0006",
+          "score": 0.33092331886291504,
+          "title": "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_07.md::chunk-0001",
+          "score": 0.30910009145736694,
+          "title": "TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0039",
+          "score": 0.2963868975639343,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0761",
+          "score": 0.2830052375793457,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0041",
+          "score": 0.28044599294662476,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- 2.334 Phạm tội thuộc một trong các trường hợp sau đây, thì bị phạt tù từ 02 [S1]\n- dịch, người dịch thuật, người bào chữa nào mà kết luận, dịch, khai gian dối hoặc [S2]\n- cấp tài liệu sai sự thật hoặc không khai báo, không cung cấp tài liệu; mua chuộc [S3]\n- xuất bản, không có giấy phép xuất bản tài liệu không kinh doanh hoặc không có [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 0.0,
+      "context_precision": 0.0,
+      "faithfulness": 1.0,
+      "latency_ms": 219.65270000509918,
+      "answer_relevance": 0.5923812387773588,
+      "retrieved": [
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1047",
+          "score": 0.5704240798950195,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1157",
+          "score": 0.5485528111457825,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1161",
+          "score": 0.5404808521270752,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1044",
+          "score": 0.5157154202461243,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0123",
+          "score": 0.5089054703712463,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1073",
+          "score": 0.5060378909111023,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- ma túy và trong thời hạn quản lý người sử dụng trái phép chất ma túy theo quy [S1]\n- a) Đã bị xử phạt vi phạm hành chính về hành vi quy định tại Điều này hoặc [S2]\n- e) Vi phạm quy định về cấp phát, cho phép sử dụng chất ma túy, thuốc gây [S3]\n- Tội cưỡng bức người khác sử dụng trái phép chất ma túy [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.16666666666666666,
+      "faithfulness": 1.0,
+      "latency_ms": 63.6915999930352,
+      "answer_relevance": 0.383554513587291,
+      "retrieved": [
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0747",
+          "score": 0.8768198490142822,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0724",
+          "score": 0.8307151198387146,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0757",
+          "score": 0.8261215686798096,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0749",
+          "score": 0.8246089816093445,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0065",
+          "score": 0.8207806348800659,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/nghi-dinh-144-2021-xu-phat-an-ninh-trat-tu.md::chunk-0001",
+          "score": 0.8171653747558594,
+          "title": "Nghị định 144/2021/NĐ-CP về xử phạt hành chính an ninh, trật tự",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- b) Người nào đã bị kết án về tội chiếm đoạt chất ma túy, chưa được xóa án tích mà lại tiếp tục chiếm đoạt một trong các chất ma túy có khối lượng, thể tích dưới mức quy định từ điểm b đến điểm h khoản 1 Điều 252 của Bộ luật Hình sự, nếu không thuộc trường hợp tái phạm nguy hiểm thì bị truy cứu trách nhiệm hình sự theo khoản 1 Điều 252 của Bộ luật Hình sự. [S1]\n- Tội cưỡng bức người khác sử dụng trái phép chất ma túy [S2]\n- Người nào đã bị kết án về tội tàng trữ, sản xuất, vận chuyển, mua bán trái phép chất ma túy hoặc tội chiếm đoạt chất ma túy chưa được xóa án tích mà lại tiếp tục vận chuyển một trong các chất ma túy có khối lượng, thể tích chưa đủ yếu tố cấu thành tội phạm thì bị truy cứu trách nhiệm hình sự theo quy định tại khoản 1 Điều 250 của Bộ luật Hình sự. [S3]\n- Người nào đã bị kết án về tội tàng trữ, sản xuất, vận chuyển, mua bán trái phép chất ma túy hoặc tội chiếm đoạt chất ma túy chưa được xóa án tích mà lại tiếp tục tàng trữ một trong các chất ma túy có khối lượng, thể tích chưa đủ yếu tố cấu thành tội phạm thì bị truy cứu trách nhiệm hình sự theo quy định tại khoản 1 Điều 249 của Bộ luật Hình sự. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 0.5,
+      "context_precision": 0.16666666666666666,
+      "faithfulness": 1.0,
+      "latency_ms": 62.150999961886555,
+      "answer_relevance": 0.5715428359666352,
+      "retrieved": [
+        {
+          "id": "news/news_08.md::chunk-0008",
+          "score": 0.7677913308143616,
+          "title": "Hướng dẫn áp dụng một số quy định của Bộ luật Hình sự về các tội phạm ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0749",
+          "score": 0.7631597518920898,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "news/news_08.md::chunk-0006",
+          "score": 0.7603906989097595,
+          "title": "Hướng dẫn áp dụng một số quy định của Bộ luật Hình sự về các tội phạm ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_08.md::chunk-0002",
+          "score": 0.7528287172317505,
+          "title": "Hướng dẫn áp dụng một số quy định của Bộ luật Hình sự về các tội phạm ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_08.md::chunk-0007",
+          "score": 0.7380027770996094,
+          "title": "Hướng dẫn áp dụng một số quy định của Bộ luật Hình sự về các tội phạm ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0045",
+          "score": 0.7340161800384521,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Việc kiểm soát hoạt động liên quan đến thuốc thú y có chứa chất ma túy, tiền [S1]\n- ngăn chặn thành viên trong gia đình vi phạm pháp luật về phòng, chống ma túy. [S2]\n- a) Người sử dụng trái phép chất ma túy không có hành vi sử dụng trái phép [S3]\n- túy và người nghiện ma túy là biện pháp làm giảm tác hại liên quan đến hành vi sử [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.8333333333333334,
+      "faithfulness": 1.0,
+      "latency_ms": 57.07919999258593,
+      "answer_relevance": 0.6907940929999867,
+      "retrieved": [
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0030",
+          "score": 0.8469576835632324,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0017",
+          "score": 0.8299697637557983,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0049",
+          "score": 0.8148541450500488,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0093",
+          "score": 0.811894416809082,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0041",
+          "score": 0.8116907477378845,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0755",
+          "score": 0.7899383306503296,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Quản lý người sử dụng trái phép chất ma túy [S1]\n- Quản lý người sử dụng trái phép chất ma túy [S2]\n- Chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh [S3]\n- \"Chiếm đoạt chất ma túy\" quy định tại Điều 252 của Bộ luật Hình sự là một trong các hành vi trộm cắp, lừa đảo, tham ô, lạm dụng tín nhiệm, cưỡng đoạt, cướp, cướp giật, công nhiên chiếm đoạt chất ma túy của người khác. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.8333333333333334,
+      "faithfulness": 1.0,
+      "latency_ms": 48.52070001652464,
+      "answer_relevance": 0.5489027321708738,
+      "retrieved": [
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0041",
+          "score": 0.815879225730896,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0040",
+          "score": 0.7781400084495544,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0003",
+          "score": 0.7719089984893799,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "news/news_08.md::chunk-0007",
+          "score": 0.7704277038574219,
+          "title": "Hướng dẫn áp dụng một số quy định của Bộ luật Hình sự về các tội phạm ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0083",
+          "score": 0.7664363384246826,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0049",
+          "score": 0.7621781826019287,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- ma túy và trong thời hạn quản lý người sử dụng trái phép chất ma túy theo quy [S1]\n- chịu sự quản lý sau cai nghi ện ma túy trong thời hạn 01 năm kể từ ngày hoàn [S2]\n- Nội dung quản lý người sử dụng trái phép chất ma túy bao gồm: [S3]\n- định quản lý sau cai nghiện ma túy đến hết thời hạn quản lý sau cai nghiện theo [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.8333333333333334,
+      "faithfulness": 1.0,
+      "latency_ms": 64.9567999644205,
+      "answer_relevance": 0.3936788685967358,
+      "retrieved": [
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0747",
+          "score": 0.8000357151031494,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0091",
+          "score": 0.7723084688186646,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0043",
+          "score": 0.7690937519073486,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0114",
+          "score": 0.7618328928947449,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0115",
+          "score": 0.7350600957870483,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0066",
+          "score": 0.733989417552948,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- thuộc trường hợp quy định tại điểm b khoản 3 Điều này; [S1]\n- # Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH [S2]\n- c) Xúi giục, lôi kéo, kích động người khác phạm tội; [S3]\n- Các tình tiết đã được Bộ luật này quy định là dấu hiệu định tội hoặc định [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.16666666666666666,
+      "faithfulness": 1.0,
+      "latency_ms": 60.56229997193441,
+      "answer_relevance": 0.3357600533531463,
+      "retrieved": [
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0244",
+          "score": 0.5721750259399414,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0000",
+          "score": 0.5657522082328796,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1022",
+          "score": 0.5647318363189697,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0086",
+          "score": 0.5452975630760193,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "news/news_04.md::chunk-0004",
+          "score": 0.542770266532898,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_05.md::chunk-0005",
+          "score": 0.5396953821182251,
+          "title": "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương",
+          "knowledge_base": "news"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- - Tham khảo thêm Hàng trăm kg ma túy bị chặn đứng trên các tuyến biên giới [S1]\n- Thống kê người nghiện ma túy trong trại giam, trại tạm giam, nhà tạm giữ [S2]\n- l) Các chất ma túy khác ở thể rắn có khối lượng từ 20 gam đến dưới 100 gam; [S3]\n- Qua kiểm tra, khám xét, lực lượng công an thu giữ ma túy các loại gồm Methamphetamine, Ketamine, MDMA cùng nhiều dụng cụ sử dụng ma túy, 49 điện thoại di động, 4 máy tính bảng, 1 laptop và 14 xe gắn máy. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 0.0,
+      "context_precision": 0.0,
+      "faithfulness": 1.0,
+      "latency_ms": 52.82209999859333,
+      "answer_relevance": 0.6906307199734196,
+      "retrieved": [
+        {
+          "id": "news/news_04.md::chunk-0004",
+          "score": 0.7734227180480957,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0106",
+          "score": 0.7369784116744995,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0698",
+          "score": 0.7067870497703552,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "news/news_04.md::chunk-0003",
+          "score": 0.7065733671188354,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_06.md::chunk-0003",
+          "score": 0.7042957544326782,
+          "title": "Triệt phá đường dây ma túy xuyên biên giới, bắt giữ 65 đối tượng, 10kg chất cấm",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0749",
+          "score": 0.7015407085418701,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- - Tham khảo thêm Bắt 3 đối tượng tại Sơn La, thu giữ 33.000 viên ma túy tổng hợp [S1]\n- Thống kê người nghiện ma túy trong trại giam, trại tạm giam, nhà tạm giữ [S2]\n- đ) Sử dụng người dưới 16 tuổi vào việc phạm tội; [S3]\n- đ) Vi phạm quy định về quản lý, kiểm soát, lưu giữ chất ma túy, tiền chất, [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 0.0,
+      "context_precision": 0.0,
+      "faithfulness": 1.0,
+      "latency_ms": 85.22910001920536,
+      "answer_relevance": 0.49480099870053296,
+      "retrieved": [
+        {
+          "id": "news/news_08.md::chunk-0009",
+          "score": 0.6800546646118164,
+          "title": "Hướng dẫn áp dụng một số quy định của Bộ luật Hình sự về các tội phạm ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0106",
+          "score": 0.6708812713623047,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0698",
+          "score": 0.6596034169197083,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0757",
+          "score": 0.654338538646698,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0715",
+          "score": 0.6437937021255493,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0097",
+          "score": 0.6425302028656006,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- trong quá trình điều tra, thụ lý các vụ việc vi phạm pháp luật mà phát hiện trường [S1]\n- cây cần sa hoặc bộ phận của cây khác có chứa chất ma túy do Chính phủ quy định [S2]\n- a) Trong th ời hạn quản lý sau cai nghi ện ma túy quy đ ịnh tại khoản 1 và [S3]\n- thế; đang trong thời hạn quản lý sau cai nghiện ma túy. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 0.0,
+      "context_precision": 0.0,
+      "faithfulness": 1.0,
+      "latency_ms": 60.628000006545335,
+      "answer_relevance": 0.6117307869179047,
+      "retrieved": [
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0052",
+          "score": 0.6804279088973999,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0698",
+          "score": 0.6707890033721924,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0097",
+          "score": 0.6674122214317322,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0040",
+          "score": 0.6661749482154846,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0080",
+          "score": 0.6641868352890015,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0070",
+          "score": 0.6599777936935425,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- túy theo thẩm quyền hoặc đề nghị cơ quan, người có chuyên môn xét nghiệm chất [S1]\n- người sử dụng trái phép chất ma túy trong các trường hợp sau đây: [S2]\n- Cơ quan điều tra sau đó tiến hành khám xét khẩn cấp nơi ở và nơi chữa bệnh bắt buộc của vợ chồng Nguyễn Thị Mai Anh, thu giữ ma túy cùng các dụng cụ sử dụng ma túy. [S3]\n- Quản lý người sử dụng trái phép chất ma túy [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 0.0,
+      "context_precision": 0.0,
+      "faithfulness": 1.0,
+      "latency_ms": 74.83400002820417,
+      "answer_relevance": 0.23408039219639148,
+      "retrieved": [
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0040",
+          "score": 0.7359912395477295,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0048",
+          "score": 0.7109733819961548,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "news/news_05.md::chunk-0005",
+          "score": 0.7003751993179321,
+          "title": "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0041",
+          "score": 0.6995109915733337,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0080",
+          "score": 0.6782125234603882,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0052",
+          "score": 0.6684751510620117,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Khi quyết định hình phạt, Tòa án căn cứ vào quy định của Bộ luật này, cân [S1]\n- sung một số điều của Bộ luật Hình sự số 100/2015/QH13, có hiệu lực kể từ ngày 01 tháng 01 [S2]\n- hợp với phần hình phạt chưa chấp hành của bản án trước rồi quyết định hình phạt [S3]\n- Điều này hoặc hành vi quy định tại Điều 321 của Bộ luật này hoặc đã bị kết án về [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 1.0,
+      "faithfulness": 1.0,
+      "latency_ms": 49.453800020273775,
+      "answer_relevance": 0.5437991176935615,
+      "retrieved": [
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0145",
+          "score": 0.7610363960266113,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1136",
+          "score": 0.7308574914932251,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0095",
+          "score": 0.7253599166870117,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0997",
+          "score": 0.715992271900177,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1121",
+          "score": 0.7155085802078247,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1223",
+          "score": 0.7153185606002808,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Khi quyết định hình phạt, Tòa án căn cứ vào quy định của Bộ luật này, cân [S1]\n- sung một số điều của Bộ luật Hình sự số 100/2015/QH13, có hiệu lực kể từ ngày 01 tháng 01 [S2]\n- Hình phạt là biện pháp cưỡng chế nghiêm khắc nhất của Nhà nước được quy [S3]\n- 354 và 421 của Bộ luật Hình sự số 100/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 1.0,
+      "faithfulness": 1.0,
+      "latency_ms": 49.63059996953234,
+      "answer_relevance": 0.49747172968153386,
+      "retrieved": [
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0145",
+          "score": 0.7373870611190796,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1136",
+          "score": 0.7321521043777466,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0049",
+          "score": 0.7021350860595703,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1223",
+          "score": 0.6994470953941345,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1067",
+          "score": 0.6990150213241577,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0626",
+          "score": 0.6989080905914307,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Quản lý người sử dụng trái phép chất ma túy [S1]\n- Cơ quan, tổ chức nơi người sử dụng trái phép chất ma túy làm việc, cộng [S2]\n- chính đối với hành vi sử dụng trái phép chất ma túy tiến hành xét nghiệm chất ma [S3]\n- dược chất hướng thần, tiền chất dùng làm thuốc [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 0.0,
+      "context_precision": 0.0,
+      "faithfulness": 1.0,
+      "latency_ms": 53.80190000869334,
+      "answer_relevance": 0.38346888294421744,
+      "retrieved": [
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0041",
+          "score": 0.8047922253608704,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0047",
+          "score": 0.790120542049408,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0040",
+          "score": 0.7759957909584045,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0031",
+          "score": 0.7441478967666626,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0093",
+          "score": 0.741996705532074,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0048",
+          "score": 0.7407239079475403,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    }
+  ],
+  "config_b": [
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Ca sĩ Miu Lê làm việc với công an vì liên quan đến ma túy [S1]\n- Theo thông tin từ cơ quan chức năng được nhiều báo đăng tải, Lê Ánh Nhật, tức Miu Lê, nằm trong nhóm 6 người bị đưa về trụ sở để làm rõ sau khi bị phát hiện có hành vi sử dụng trái phép chất ma túy; kết quả test nhanh cho thấy cô dương tính với Methamphetamine, Ketamine và MDMA. [S2]\n- ## (Chinhphu.vn) - Trong số 48 đối tượng bị phát hiện sử dụng trái phép chất ma túy có Lê Duy Linh, nghệ danh Tăng Nhật Tuệ, nghề nghiệp ca sĩ, nhạc sĩ. [S3]\n- Chính vì vậy, thông tin Miu Lê bị phát hiện liên quan đến vụ sử dụng trái phép chất ma túy khiến nhiều khán giả bất ngờ. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.6666666666666666,
+      "faithfulness": 1.0,
+      "latency_ms": 95.26689996710047,
+      "answer_relevance": 0.18827306564488458,
+      "retrieved": [
+        {
+          "id": "news/news_02.md::chunk-0000",
+          "score": 0.03200204813108039,
+          "title": "Cuộc sống của Miu Lê trước khi bị điều tra liên quan đến ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_03.md::chunk-0000",
+          "score": 0.031544957774465976,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_04.md::chunk-0001",
+          "score": 0.03131881575727918,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_03.md::chunk-0008",
+          "score": 0.02946912242686891,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_02.md::chunk-0001",
+          "score": 0.029437229437229435,
+          "title": "Cuộc sống của Miu Lê trước khi bị điều tra liên quan đến ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_01.md::chunk-0000",
+          "score": 0.028693528693528692,
+          "title": "20 năm hoạt động của Miu Lê trước khi bị bắt quả tang dùng ma túy",
+          "knowledge_base": "news"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Qua kiểm tra, công an phát hiện 6 người liên quan gồm: Vũ Khương An (31 tuổi, trú TP.HCM), Trần Đức Phong (35 tuổi, trú Hà Nội), Đoàn Thị Thúy An (36 tuổi, trú đặc khu Cát Hải), Trần Minh Trang (30 tuổi, trú Hà Nội), Lê Ánh Nhật - nữ ca sĩ Miu Lê (35 tuổi, trú TP.HCM) và Vũ Thái Nam (24 tuổi, trú Bắc Ninh). [S1]\n- Theo thông tin từ cơ quan chức năng được nhiều báo đăng tải, Lê Ánh Nhật, tức Miu Lê, nằm trong nhóm 6 người bị đưa về trụ sở để làm rõ sau khi bị phát hiện có hành vi sử dụng trái phép chất ma túy; kết quả test nhanh cho thấy cô dương tính với Methamphetamine, Ketamine và MDMA. [S2]\n- Trước đó, vào lúc 14 giờ ngày 22/05/2026, tổ công tác của Công an phường Bảy Hiền bất ngờ tiến hành kiểm tra hành chính tại phòng B7, lầu 2, địa chỉ số 56 Nguyễn Bá Tuyển. [S3]\n- Như Thanh Niên thông tin, Công an đặc khu Cát Hải (Hải Phòng) cho biết một người mang nghệ danh Miu Lê đang làm việc với Công an xã Cát Hải liên quan vụ việc nghi sử dụng trái phép chất ma túy tại khu vực bãi tắm Tùng Thu, đảo Cát Bà. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.3333333333333333,
+      "faithfulness": 1.0,
+      "latency_ms": 103.15999999875203,
+      "answer_relevance": 0.32308527709657087,
+      "retrieved": [
+        {
+          "id": "news/news_02.md::chunk-0001",
+          "score": 0.03225806451612903,
+          "title": "Cuộc sống của Miu Lê trước khi bị điều tra liên quan đến ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_03.md::chunk-0000",
+          "score": 0.03057889822595705,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_07.md::chunk-0001",
+          "score": 0.02857142857142857,
+          "title": "TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_02.md::chunk-0000",
+          "score": 0.01639344262295082,
+          "title": "Cuộc sống của Miu Lê trước khi bị điều tra liên quan đến ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_05.md::chunk-0004",
+          "score": 0.015625,
+          "title": "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_04.md::chunk-0002",
+          "score": 0.015384615384615385,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Miu Lê tên thật là Lê Ánh Nhật, sinh năm 1991. [S1]\n- Miu Lê tên thật là Lê Ánh Nhật, sinh năm 1991. [S2]\n- Nếu âm nhạc giúp Miu Lê có tệp khán giả riêng, thì điện ảnh mới là lĩnh vực đưa tên tuổi cô phủ sóng rộng hơn. [S3]\n- Vai diễn Thanh Nga giúp Miu Lê thoát khỏi hình ảnh một gương mặt trẻ đóng phim giải trí đơn thuần. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 1.0,
+      "faithfulness": 1.0,
+      "latency_ms": 98.86359999654815,
+      "answer_relevance": 0.3806063677887636,
+      "retrieved": [
+        {
+          "id": "news/news_03.md::chunk-0001",
+          "score": 0.032266458495966696,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_02.md::chunk-0003",
+          "score": 0.03225806451612903,
+          "title": "Cuộc sống của Miu Lê trước khi bị điều tra liên quan đến ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_03.md::chunk-0005",
+          "score": 0.030776515151515152,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_03.md::chunk-0006",
+          "score": 0.030776515151515152,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_01.md::chunk-0000",
+          "score": 0.03057889822595705,
+          "title": "20 năm hoạt động của Miu Lê trước khi bị bắt quả tang dùng ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_01.md::chunk-0004",
+          "score": 0.029726775956284153,
+          "title": "20 năm hoạt động của Miu Lê trước khi bị bắt quả tang dùng ma túy",
+          "knowledge_base": "news"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Theo thông tin từ cơ quan chức năng, qua test nhanh, một số người trong nhóm cho kết quả dương tính với ma túy. [S1]\n- Theo thông tin từ cơ quan chức năng được nhiều báo đăng tải, Lê Ánh Nhật, tức Miu Lê, nằm trong nhóm 6 người bị đưa về trụ sở để làm rõ sau khi bị phát hiện có hành vi sử dụng trái phép chất ma túy; kết quả test nhanh cho thấy cô dương tính với Methamphetamine, Ketamine và MDMA. [S2]\n- Hôm 10/5, ca sĩ Miu Lê (tên thật Lê Ánh Nhật, 35 tuổi) bị bắt quả tang cùng nhóm bạn sử dụng ma túy tại Hải Phòng.Theo cơ quan chức năng, kết quả xét nghiệm nhanh cho thấy cô dương tính với ba loại chất cấm. [S3]\n- Ngày 8/6/2025, cơ quan công an tiến hành khám xét buồng chữa bệnh của Lê Văn Đông tại Khoa Điều trị bắt buộc nam, Viện Pháp y tâm thần Trung ương, thu giữ chất bột màu trắng bên trong một túi nilon, được xác định là ma túy loại MDMA, khối lượng 0,686 gram; 3 bộ tẩu hút tự tạo có dính ma túy loại Methamphetamine; một điện thoại di động cùng một số thiết bị âm thanh, dụng cụ sử dụng ma túy. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.3333333333333333,
+      "faithfulness": 1.0,
+      "latency_ms": 137.8689000266604,
+      "answer_relevance": 0.5771926344857873,
+      "retrieved": [
+        {
+          "id": "news/news_02.md::chunk-0001",
+          "score": 0.030798389007344232,
+          "title": "Cuộc sống của Miu Lê trước khi bị điều tra liên quan đến ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_03.md::chunk-0000",
+          "score": 0.01639344262295082,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_01.md::chunk-0000",
+          "score": 0.016129032258064516,
+          "title": "20 năm hoạt động của Miu Lê trước khi bị bắt quả tang dùng ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_05.md::chunk-0006",
+          "score": 0.015873015873015872,
+          "title": "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_03.md::chunk-0003",
+          "score": 0.015625,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_06.md::chunk-0004",
+          "score": 0.015625,
+          "title": "Triệt phá đường dây ma túy xuyên biên giới, bắt giữ 65 đối tượng, 10kg chất cấm",
+          "knowledge_base": "news"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Theo thông tin từ cơ quan chức năng được nhiều báo đăng tải, Lê Ánh Nhật, tức Miu Lê, nằm trong nhóm 6 người bị đưa về trụ sở để làm rõ sau khi bị phát hiện có hành vi sử dụng trái phép chất ma túy; kết quả test nhanh cho thấy cô dương tính với Methamphetamine, Ketamine và MDMA. [S1]\n- Hôm 10/5, ca sĩ Miu Lê (tên thật Lê Ánh Nhật, 35 tuổi) bị bắt quả tang cùng nhóm bạn sử dụng ma túy tại Hải Phòng.Theo cơ quan chức năng, kết quả xét nghiệm nhanh cho thấy cô dương tính với ba loại chất cấm. [S2]\n- Thông tin liên quan đến Miu Lê đang gây xôn xao dư luận. [S3]\n- Miu Lê kết hợp cùng Karik trong dự án Vì mẹ anh bắt chia tay - Ảnh: FBNV [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 1.0,
+      "faithfulness": 1.0,
+      "latency_ms": 110.55179999675602,
+      "answer_relevance": 0.3138334083529031,
+      "retrieved": [
+        {
+          "id": "news/news_03.md::chunk-0000",
+          "score": 0.03149801587301587,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_01.md::chunk-0000",
+          "score": 0.027031963470319637,
+          "title": "20 năm hoạt động của Miu Lê trước khi bị bắt quả tang dùng ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_02.md::chunk-0002",
+          "score": 0.01639344262295082,
+          "title": "Cuộc sống của Miu Lê trước khi bị điều tra liên quan đến ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_03.md::chunk-0004",
+          "score": 0.016129032258064516,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_01.md::chunk-0005",
+          "score": 0.015625,
+          "title": "20 năm hoạt động của Miu Lê trước khi bị bắt quả tang dùng ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_03.md::chunk-0003",
+          "score": 0.015384615384615385,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- c) Ngăn chặn người sử dụng trái phép chất ma túy có hành vi gây mất trật tự, [S1]\n- Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với hành vi tàng trữ, vận chuyển trái phép hoặc chiếm đoạt chất ma túy nhưng không bị truy cứu trách nhiệm hình sự; các hành vi liên quan đến tiền chất và phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy theo quy định tại khoản này. [S2]\n- dụng trái phép chất ma túy gây ra cho bản thân, gia đình và cộng đồng. [S3]\n- chính đối với hành vi sử dụng trái phép chất ma túy tiến hành xét nghiệm chất ma [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.16666666666666666,
+      "faithfulness": 1.0,
+      "latency_ms": 105.79669999424368,
+      "answer_relevance": 0.3842010718889254,
+      "retrieved": [
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0043",
+          "score": 0.030776515151515152,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/nghi-dinh-144-2021-xu-phat-an-ninh-trat-tu.md::chunk-0001",
+          "score": 0.030679156908665108,
+          "title": "Nghị định 144/2021/NĐ-CP về xử phạt hành chính an ninh, trật tự",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0093",
+          "score": 0.02919863597612958,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0040",
+          "score": 0.029030910609857977,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0045",
+          "score": 0.028790389395194696,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0049",
+          "score": 0.027984344422700584,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với hành vi tàng trữ, vận chuyển trái phép hoặc chiếm đoạt chất ma túy nhưng không bị truy cứu trách nhiệm hình sự; các hành vi liên quan đến tiền chất và phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy theo quy định tại khoản này. [S1]\n- d) Người sử dụng trái phép chất ma túy phải thi hành án phạt tù; [S2]\n- a) Người sử dụng trái phép chất ma túy không có hành vi sử dụng trái phép [S3]\n- a) Động viên, giúp đỡ, giáo dục người sử dụng trái phép chất ma túy; ngăn [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.3333333333333333,
+      "faithfulness": 1.0,
+      "latency_ms": 79.00100003462285,
+      "answer_relevance": 0.5040865931128384,
+      "retrieved": [
+        {
+          "id": "legal/nghi-dinh-144-2021-xu-phat-an-ninh-trat-tu.md::chunk-0001",
+          "score": 0.028790389395194696,
+          "title": "Nghị định 144/2021/NĐ-CP về xử phạt hành chính an ninh, trật tự",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0045",
+          "score": 0.028665028665028666,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0049",
+          "score": 0.02862400327131466,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0047",
+          "score": 0.02844551282051282,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0093",
+          "score": 0.027650648360030512,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0737",
+          "score": 0.015873015873015872,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Các hành vi bị nghiêm cấm khác do luật định liên quan đến ma túy. [S1]\n- Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng đối với hành vi tàng trữ, vận chuyển trái phép hoặc chiếm đoạt chất ma túy nhưng không bị truy cứu trách nhiệm hình sự; các hành vi liên quan đến tiền chất và phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy theo quy định tại khoản này. [S2]\n- Kiểm soát các hoạt động hợp pháp liên quan đến ma túy là việc cho phép, [S3]\n- tiền chất trái quy định của pháp luật; cho phép người sử dụng chất ma túy, thuốc [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.8333333333333334,
+      "faithfulness": 1.0,
+      "latency_ms": 76.42639998812228,
+      "answer_relevance": 0.7330341620840193,
+      "retrieved": [
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0016",
+          "score": 0.032018442622950824,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/nghi-dinh-144-2021-xu-phat-an-ninh-trat-tu.md::chunk-0001",
+          "score": 0.03125763125763126,
+          "title": "Nghị định 144/2021/NĐ-CP về xử phạt hành chính an ninh, trật tự",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0007",
+          "score": 0.028083267871170464,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0015",
+          "score": 0.02761904761904762,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0030",
+          "score": 0.01639344262295082,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0017",
+          "score": 0.016129032258064516,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Kỳ thị người sử dụng trái phép ch ất ma túy, ngư ời cai nghi ện ma túy, [S1]\n- tiền chất trái quy định của pháp luật; cho phép người sử dụng chất ma túy, thuốc [S2]\n- a) Người sử dụng trái phép chất ma túy không có hành vi sử dụng trái phép [S3]\n- a) Quản lý, giáo dục người sử dụng trái phép chất ma túy; ngăn chặn hành vi [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 1.0,
+      "faithfulness": 1.0,
+      "latency_ms": 102.55250002956018,
+      "answer_relevance": 0.6099833695719097,
+      "retrieved": [
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0016",
+          "score": 0.031054405392392875,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0015",
+          "score": 0.03028233151183971,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0049",
+          "score": 0.029411764705882353,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0047",
+          "score": 0.029273504273504274,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0041",
+          "score": 0.02921395544346364,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0101",
+          "score": 0.028083267871170464,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Nội dung quản lý người sử dụng trái phép chất ma túy bao gồm: [S1]\n- b) Người sử dụng trái phép chất ma túy không có nơi cư trú ổn định; [S2]\n- trách nhiệm ra quyết định và tổ chức quản lý người sử dụng trái phép chất ma túy [S3]\n- c) Theo dõi, phát hiện, ngăn chặn hành vi sử dụng trái phép chất ma túy. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 1.0,
+      "faithfulness": 1.0,
+      "latency_ms": 66.96239998564124,
+      "answer_relevance": 0.21380446235268225,
+      "retrieved": [
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0043",
+          "score": 0.03278688524590164,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0051",
+          "score": 0.030309988518943745,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0044",
+          "score": 0.02946236559139785,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0092",
+          "score": 0.02919863597612958,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0041",
+          "score": 0.02857142857142857,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0047",
+          "score": 0.027777777777777776,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Qua phân loại, Công an phường Chánh Hưng đã chuyển hồ sơ đến Cơ quan CSĐT Công an TPHCM khởi tố 39 đối tượng về các hành vi mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma tuý; xử lý hành chính và đưa đi cai nghiện bắt buộc 9 đối tượng. [S1]\n- Cơ quan Công an làm việc với nhóm đối tượng, trong đó có ca sĩ Miu Lê. [S2]\n- # TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền [S3]\n- Hiện nay, Công an phường Bảy Hiền đang tiếp tục hoàn thiện, củng cố hồ sơ để khởi tố các đối tượng theo đúng quy định của pháp luật. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.5,
+      "faithfulness": 1.0,
+      "latency_ms": 85.43839998310432,
+      "answer_relevance": 0.6163430225951081,
+      "retrieved": [
+        {
+          "id": "news/news_04.md::chunk-0004",
+          "score": 0.031009615384615385,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_03.md::chunk-0000",
+          "score": 0.030798389007344232,
+          "title": "Những dấu mốc sự nghiệp của Miu Lê trước vụ việc sử dụng chất cấm tại Hải Phòng",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_07.md::chunk-0000",
+          "score": 0.027783137179239824,
+          "title": "TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_07.md::chunk-0003",
+          "score": 0.027479766610201392,
+          "title": "TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_04.md::chunk-0001",
+          "score": 0.01639344262295082,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_04.md::chunk-0003",
+          "score": 0.016129032258064516,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- - Tham khảo thêm Hàng trăm kg ma túy bị chặn đứng trên các tuyến biên giới [S1]\n- ## (Chinhphu.vn) - VKSND thành phố Hà Nội vừa truy tố 65 bị can trong “đại án” xảy ra tại Viện Pháp y tâm thần Trung ương, liên quan đến 9 tội danh. [S2]\n- ## Truy tố 48 bị can nguyên là cán bộ, lãnh đạo, bác sĩ, nhân viên Viện Pháp y tâm thần Trung ương [S3]\n- Cùng với đó, cựu Phó Viện trưởng Viện Pháp y tâm thần Trung ương Dương Văn Lương (sinh năm 1962) và 45 bị can khác là cán bộ, lãnh đạo, bác sĩ, điều dưỡng, bảo vệ của Viện Pháp y tâm thần Trung ương và các bệnh viện tâm thần khác bị truy tố về các tội danh: \"Nhận hối lộ\"; \"Đưa hối lộ\"; \"Môi giới hối lộ\"; \"Lợi dụng chức vụ, quyền hạn trong khi thi hành công vụ\" (quy định tại Điều 356 Bộ luật Hình sự); \"Tàng trữ trái phép chất ma túy\" (quy định tại Điều 249 Bộ luật Hình sự); \"Đánh bạc\" (quy định tại Điều 321 Bộ luật Hình sự). [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.8333333333333334,
+      "faithfulness": 1.0,
+      "latency_ms": 83.04369996767491,
+      "answer_relevance": 0.7299568825329724,
+      "retrieved": [
+        {
+          "id": "news/news_04.md::chunk-0004",
+          "score": 0.01639344262295082,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_05.md::chunk-0000",
+          "score": 0.01639344262295082,
+          "title": "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_05.md::chunk-0001",
+          "score": 0.016129032258064516,
+          "title": "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_05.md::chunk-0003",
+          "score": 0.015873015873015872,
+          "title": "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_05.md::chunk-0008",
+          "score": 0.015625,
+          "title": "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_05.md::chunk-0002",
+          "score": 0.015384615384615385,
+          "title": "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương",
+          "knowledge_base": "news"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- - Tham khảo thêm Triệt phá đường dây ma túy liên tỉnh, bắt và xử lý 140 đối tượng [S1]\n- # Triệt phá đường dây ma túy xuyên biên giới, bắt giữ 65 đối tượng, 10kg chất cấm [S2]\n- - Tham khảo thêm Bắt 3 đối tượng tại Sơn La, thu giữ 33.000 viên ma túy tổng hợp [S3]\n- Quá trình bắt giữ các đối tượng, cơ quan công an đã thu giữ số lượng lớn tinh thể không màu và nhiều nỏ thủy tinh dính vết ma túy. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.5,
+      "faithfulness": 1.0,
+      "latency_ms": 101.09160002321005,
+      "answer_relevance": 0.5061583231001954,
+      "retrieved": [
+        {
+          "id": "news/news_04.md::chunk-0004",
+          "score": 0.029910714285714284,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_06.md::chunk-0000",
+          "score": 0.01639344262295082,
+          "title": "Triệt phá đường dây ma túy xuyên biên giới, bắt giữ 65 đối tượng, 10kg chất cấm",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_08.md::chunk-0009",
+          "score": 0.01639344262295082,
+          "title": "Hướng dẫn áp dụng một số quy định của Bộ luật Hình sự về các tội phạm ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_07.md::chunk-0002",
+          "score": 0.016129032258064516,
+          "title": "TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_06.md::chunk-0005",
+          "score": 0.015873015873015872,
+          "title": "Triệt phá đường dây ma túy xuyên biên giới, bắt giữ 65 đối tượng, 10kg chất cấm",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_06.md::chunk-0003",
+          "score": 0.015384615384615385,
+          "title": "Triệt phá đường dây ma túy xuyên biên giới, bắt giữ 65 đối tượng, 10kg chất cấm",
+          "knowledge_base": "news"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- - Tham khảo thêm Hàng trăm kg ma túy bị chặn đứng trên các tuyến biên giới [S1]\n- # Triệt phá đường dây ma túy xuyên biên giới, bắt giữ 65 đối tượng, 10kg chất cấm [S2]\n- Khởi tố 21 đối tượng về tội \"Tổ chức sử dụng trái phép chất ma túy\": Trần Quốc Chiến, Lê Thành Nhân, Võ Thanh Tùng, Lê Văn Toàn, Phạm Văn Thản, Nguyễn Đình Đô, Nguyễn Văn Dũng, Sơn Sal, Lê Văn Tài, Lý Som, Cao Diệp Mai, Trịnh Văn Hồng, Nguyễn Tấn Dũng, Nguyễn Thị Lan, Lâm Chánh Hên, Nguyễn Văn Thọ, Trịnh Duy Quang, Lê Thị Thúy An, Cao Hoàng Khánh, Nguyễn Thị Lương, Trần Thị Thùy Dung. [S3]\n- Đáng chú ý, một số nhánh trong đường dây này còn mở rộng hoạt động tổ chức sử dụng ma túy sang các địa bàn lân cận và tỉnh Tây Ninh. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.16666666666666666,
+      "faithfulness": 1.0,
+      "latency_ms": 80.073099990841,
+      "answer_relevance": 0.5463722582242562,
+      "retrieved": [
+        {
+          "id": "news/news_04.md::chunk-0004",
+          "score": 0.03021353930031804,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_06.md::chunk-0000",
+          "score": 0.01639344262295082,
+          "title": "Triệt phá đường dây ma túy xuyên biên giới, bắt giữ 65 đối tượng, 10kg chất cấm",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_07.md::chunk-0004",
+          "score": 0.015873015873015872,
+          "title": "TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_07.md::chunk-0002",
+          "score": 0.015625,
+          "title": "TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_05.md::chunk-0001",
+          "score": 0.015384615384615385,
+          "title": "Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_07.md::chunk-0003",
+          "score": 0.014925373134328358,
+          "title": "TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền",
+          "knowledge_base": "news"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Qua phân loại, Công an phường Chánh Hưng đã chuyển hồ sơ đến Cơ quan CSĐT Công an TPHCM khởi tố 39 đối tượng về các hành vi mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma tuý; xử lý hành chính và đưa đi cai nghiện bắt buộc 9 đối tượng. [S1]\n- # TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền [S2]\n- ### TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền [S3]\n- Hiện nay, Công an phường Bảy Hiền đang tiếp tục hoàn thiện, củng cố hồ sơ để khởi tố các đối tượng theo đúng quy định của pháp luật. [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.6666666666666666,
+      "faithfulness": 1.0,
+      "latency_ms": 88.35320000071079,
+      "answer_relevance": 0.49728505157688146,
+      "retrieved": [
+        {
+          "id": "news/news_04.md::chunk-0004",
+          "score": 0.029236022193768675,
+          "title": "Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_07.md::chunk-0000",
+          "score": 0.01639344262295082,
+          "title": "TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_06.md::chunk-0005",
+          "score": 0.016129032258064516,
+          "title": "Triệt phá đường dây ma túy xuyên biên giới, bắt giữ 65 đối tượng, 10kg chất cấm",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_07.md::chunk-0003",
+          "score": 0.015873015873015872,
+          "title": "TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_07.md::chunk-0001",
+          "score": 0.015625,
+          "title": "TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền",
+          "knowledge_base": "news"
+        },
+        {
+          "id": "news/news_07.md::chunk-0005",
+          "score": 0.015384615384615385,
+          "title": "TP Hồ Chí Minh: Bắt giữ 53 đối tượng liên quan đến ma túy tại phường Bảy Hiền",
+          "knowledge_base": "news"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Điều kiện chịu trách nhiệm hình sự của pháp nhân thương mại [S1]\n- Các tội xâm phạm hoạ t động tư pháp là những hành vi xâm phạm sự đúng [S2]\n- xử lý kỷ luật hoặc xử phạt vi phạm hành chính về một trong các hành vi quy định [S3]\n- Khi quyết định hình phạt, Tòa án căn cứ vào quy định của Bộ luật này, cân [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 1.0,
+      "faithfulness": 1.0,
+      "latency_ms": 66.42280000960454,
+      "answer_relevance": 0.6403650633653671,
+      "retrieved": [
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0133",
+          "score": 0.027106227106227107,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1109",
+          "score": 0.01639344262295082,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0754",
+          "score": 0.016129032258064516,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0145",
+          "score": 0.015873015873015872,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0027",
+          "score": 0.015625,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1121",
+          "score": 0.015625,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Các tội xâm phạm hoạ t động tư pháp là những hành vi xâm phạm sự đúng [S1]\n- xử lý kỷ luật hoặc xử phạt vi phạm hành chính về một trong các hành vi quy định [S2]\n- ### Khoản 2 — Hành vi liên quan nhưng chưa đến mức truy cứu trách nhiệm hình sự [S3]\n- Khi quyết định hình phạt, Tòa án căn cứ vào quy định của Bộ luật này, cân [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.6666666666666666,
+      "faithfulness": 1.0,
+      "latency_ms": 71.66870002401993,
+      "answer_relevance": 0.5620417207275292,
+      "retrieved": [
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1109",
+          "score": 0.01639344262295082,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0754",
+          "score": 0.016129032258064516,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/nghi-dinh-144-2021-xu-phat-an-ninh-trat-tu.md::chunk-0001",
+          "score": 0.016129032258064516,
+          "title": "Nghị định 144/2021/NĐ-CP về xử phạt hành chính an ninh, trật tự",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0145",
+          "score": 0.015873015873015872,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-1121",
+          "score": 0.015625,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0105",
+          "score": 0.015625,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        }
+      ]
+    },
+    {
+      "answer": "Các căn cứ truy xuất được:\n- Cơ quan, tổ chức nơi người sử dụng trái phép chất ma túy làm việc, cộng [S1]\n- Sử dụng, tổ chức sử dụng trái phép chất ma túy; cưỡng bức, lôi kéo người [S2]\n- Quản lý người sử dụng trái phép chất ma túy [S3]\n- d) Người sử dụng trái phép chất ma túy phải thi hành án phạt tù; [S4]\n\nCần đối chiếu tình tiết cụ thể trước khi kết luận trách nhiệm pháp lý. Thông tin pháp lý chỉ mang tính tham khảo.",
+      "context_recall": 1.0,
+      "context_precision": 0.3333333333333333,
+      "faithfulness": 1.0,
+      "latency_ms": 91.97220002533868,
+      "answer_relevance": 0.5414186740874798,
+      "retrieved": [
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0047",
+          "score": 0.03177805800756621,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0015",
+          "score": 0.031754032258064516,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0041",
+          "score": 0.028949545078577336,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/luat-phong-chong-ma-tuy-vbhn-117-2025.md::chunk-0045",
+          "score": 0.028577260665441927,
+          "title": "Văn bản hợp nhất Luật Phòng, chống ma túy số 117/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/bo-luat-hinh-su-vbhn-135-2025.md::chunk-0755",
+          "score": 0.014925373134328358,
+          "title": "Văn bản hợp nhất Bộ luật Hình sự số 135/VBHN-VPQH",
+          "knowledge_base": "law"
+        },
+        {
+          "id": "legal/nghi-dinh-144-2021-xu-phat-an-ninh-trat-tu.md::chunk-0001",
+          "score": 0.014185714285714286,
+          "title": "Nghị định 144/2021/NĐ-CP về xử phạt hành chính an ninh, trật tự",
+          "knowledge_base": "law"
+        }
+      ]
+    }
+  ]
+}

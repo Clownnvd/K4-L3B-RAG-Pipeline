@@ -20,9 +20,9 @@
 
 | File | Trang | Kích thước (byte) | SHA-256 | Kết quả |
 |---|---:|---:|---|---|
-| `bo-luat-hinh-su-vbhn-135-2025.pdf` | 277 | 2,658,760 | `ce7f1dc86e2f40c102f26e5d6980519d51842f864070a979939e182125400155` | Khớp |
-| `luat-phong-chong-ma-tuy-vbhn-117-2025.pdf` | 27 | 982,042 | `4bb235aa172021d65a92a73a4224e5d00a8b719b9db9b69081df424b75268e09` | Khớp |
-| `nghi-dinh-144-2021-xu-phat-an-ninh-trat-tu.pdf` | 91 | 4,541,775 | `7baad192cc56050a3d07e1261ab04642e5ff873cd9f1969ca29234ac432e7d96` | Khớp |
+| `bo-luat-hinh-su-vbhn-135-2025.pdf` | 277 | 2.658.760 | `ce7f1dc86e2f40c102f26e5d6980519d51842f864070a979939e182125400155` | Khớp |
+| `luat-phong-chong-ma-tuy-vbhn-117-2025.pdf` | 27 | 982.042 | `4bb235aa172021d65a92a73a4224e5d00a8b719b9db9b69081df424b75268e09` | Khớp |
+| `nghi-dinh-144-2021-xu-phat-an-ninh-trat-tu.pdf` | 91 | 4.541.775 | `7baad192cc56050a3d07e1261ab04642e5ff873cd9f1969ca29234ac432e7d96` | Khớp |
 
 Nguồn của cả ba văn bản là trang văn bản chính thức của Chính phủ (`vanban.chinhphu.vn`); URL trang nguồn và URL tải PDF đều có trong manifest.
 

@@ -51,6 +51,7 @@ def test_sources_manifest_has_complete_provenance():
     required = {"title", "url", "source", "source_domain", "sha256", "standardized_file"}
     for row in rows:
         assert all(row.get(field, "").strip() for field in required), row.get("source")
+        assert "\\" not in row["standardized_file"], row["standardized_file"]
         assert (ROOT / row["standardized_file"]).is_file(), row["standardized_file"]
 
 

@@ -110,7 +110,7 @@ def convert_legal_docs() -> list[dict]:
             _frontmatter(metadata) + f"# {source['title']}\n\n" + content,
             encoding="utf-8",
         )
-        records.append({**metadata, "standardized_file": str(output.relative_to(ROOT))})
+        records.append({**metadata, "standardized_file": output.relative_to(ROOT).as_posix()})
         print(f"Standardized: {output.name} ({len(reader.pages)} pages)")
     return records
 
@@ -136,7 +136,7 @@ def _convert_web_knowledge_base(knowledge_base: str) -> list[dict]:
             _frontmatter(metadata) + f"# {item['title']}\n\n" + content + "\n",
             encoding="utf-8",
         )
-        records.append({**metadata, "standardized_file": str(output.relative_to(ROOT))})
+        records.append({**metadata, "standardized_file": output.relative_to(ROOT).as_posix()})
         print(f"Standardized: {output.relative_to(ROOT)}")
     return records
 

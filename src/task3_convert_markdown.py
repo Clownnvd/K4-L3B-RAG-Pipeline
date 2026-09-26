@@ -6,6 +6,7 @@ import csv
 import json
 import re
 from pathlib import Path
+from urllib.parse import urlparse
 
 from pypdf import PdfReader
 
@@ -65,6 +66,11 @@ def _clean_web_markdown(text: str) -> str:
     return "\n\n".join(block for block in cleaned if block)
 
 
+def _remove_source_title(text: str) -> str:
+    """Remove the first source H1 because normalization adds one canonical H1."""
+    return re.sub(r"(?m)^# .+(?:\n+|$)", "", text, count=1).strip()
+
+
 def convert_legal_docs() -> list[dict]:
     legal_dir = LANDING_DIR / "legal"
     output_dir = OUTPUT_DIR / "legal"
@@ -92,6 +98,9 @@ def convert_legal_docs() -> list[dict]:
             "title": source["title"], "source": path.name,
             "url": source["source_page"], "download_url": source["url"],
             "doc_type": "legal", "knowledge_base": "law",
+            "source_domain": urlparse(source["source_page"]).netloc.lower(),
+            "source_tier": "official_legal_source",
+            "claim_status": "official_legal_text",
             "authority": source["authority"], "issued_date": source["issued_date"],
             "effective_date": source["effective_date"], "sha256": source["sha256"],
             "extraction_method": extraction_method,
@@ -101,7 +110,7 @@ def convert_legal_docs() -> list[dict]:
             _frontmatter(metadata) + f"# {source['title']}\n\n" + content,
             encoding="utf-8",
         )
-        records.append({**metadata, "standardized_file": str(output.relative_to(ROOT))})
+        records.append({**metadata, "standardized_file": output.relative_to(ROOT).as_posix()})
         print(f"Standardized: {output.name} ({len(reader.pages)} pages)")
     return records
 
@@ -122,12 +131,12 @@ def _convert_web_knowledge_base(knowledge_base: str) -> list[dict]:
             "sha256": item["content_sha256"],
         }
         output = output_dir / f"{path.stem}.md"
-        content = _clean_web_markdown(item["content_markdown"])
+        content = _remove_source_title(_clean_web_markdown(item["content_markdown"]))
         output.write_text(
             _frontmatter(metadata) + f"# {item['title']}\n\n" + content + "\n",
             encoding="utf-8",
         )
-        records.append({**metadata, "standardized_file": str(output.relative_to(ROOT))})
+        records.append({**metadata, "standardized_file": output.relative_to(ROOT).as_posix()})
         print(f"Standardized: {output.relative_to(ROOT)}")
     return records
 

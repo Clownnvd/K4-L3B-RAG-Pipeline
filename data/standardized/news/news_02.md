@@ -12,8 +12,6 @@ sha256: "6a86d834127521874f69acec45c087bce8cb15279a85df2e1d03b26500b9179d"
 ---
 # Cuộc sống của Miu Lê trước khi bị điều tra liên quan đến ma túy
 
-# Cuộc sống của Miu Lê trước khi bị điều tra liên quan đến ma túy
-
 Ca sĩ Miu Lê làm việc với công an vì liên quan đến ma túy
 
 Như Thanh Niên thông tin, Công an đặc khu Cát Hải (Hải Phòng) cho biết một người mang nghệ danh Miu Lê đang làm việc với Công an xã Cát Hải liên quan vụ việc nghi sử dụng trái phép chất ma túy tại khu vực bãi tắm Tùng Thu, đảo Cát Bà.

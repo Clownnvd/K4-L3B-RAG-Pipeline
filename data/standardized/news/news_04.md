@@ -12,8 +12,6 @@ sha256: "d3716e80a84fbe9da001904b804ce26ceabc26c64d95118be3d4468329a59442"
 ---
 # Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy
 
-# Xử lý nghiêm 48 đối tượng mua bán, tổ chức sử dụng và tàng trữ trái phép chất ma túy
-
 ## (Chinhphu.vn) - Trong số 48 đối tượng bị phát hiện sử dụng trái phép chất ma túy có Lê Duy Linh, nghệ danh Tăng Nhật Tuệ, nghề nghiệp ca sĩ, nhạc sĩ. Lê Duy Linh còn bị xác định có hành vi tàng trữ trái phép chất ma túy.
 
 Đối tượng Lê Duy Linh, nghệ danh Tăng Nhật Tuệ, bị bắt vì sử dụng và tàng trữ ma túy

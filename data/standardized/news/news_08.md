@@ -14,8 +14,6 @@ sha256: "65690560e6a908db6409f9527098a02e5eb6506f928266850819ee0fa067334b"
 
 - Chính sách và cuộc sống
 
-# Hướng dẫn áp dụng một số quy định của Bộ luật Hình sự về các tội phạm ma túy
-
 ## (Chinhphu.vn) - Tòa án nhân dân tối cao đang lấy ý kiến của nhân dân đối với dự thảo Nghị quyết hướng dẫn áp dụng một số quy định của Bộ luật Hình sự về các tội phạm về ma túy.
 
 "Vận chuyển trái phép chất ma túy" là hành vi chuyển dịch bất hợp pháp chất ma túy từ nơi này đến nơi khác, từ quốc gia này sang quốc gia khác dưới bất kỳ hình thức nào

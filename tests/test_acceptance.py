@@ -1,3 +1,4 @@
+import csv
 import json
 from pathlib import Path
 
@@ -37,6 +38,21 @@ def test_standardized_output_covers_both_source_types():
     assert len(legal) >= 3, "Standardize all required legal documents"
     assert len(news) >= 5, "Standardize all required news articles"
     assert all(len(path.read_text(encoding="utf-8").strip()) >= 200 for path in legal + news)
+    for path in legal + news:
+        headings = [line for line in path.read_text(encoding="utf-8").splitlines() if line.startswith("# ")]
+        assert len(headings) == 1, f"{path.name} must have exactly one canonical H1"
+
+
+def test_sources_manifest_has_complete_provenance():
+    with (DATA / "sources.csv").open(encoding="utf-8-sig", newline="") as handle:
+        rows = list(csv.DictReader(handle))
+
+    assert len(rows) >= 8
+    required = {"title", "url", "source", "source_domain", "sha256", "standardized_file"}
+    for row in rows:
+        assert all(row.get(field, "").strip() for field in required), row.get("source")
+        assert "\\" not in row["standardized_file"], row["standardized_file"]
+        assert (ROOT / row["standardized_file"]).is_file(), row["standardized_file"]
 
 
 def test_golden_dataset_has_15_grounded_cases():

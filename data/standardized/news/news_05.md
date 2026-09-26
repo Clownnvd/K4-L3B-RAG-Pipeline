@@ -12,8 +12,6 @@ sha256: "25104470598e6f70c66f7c21c731e2f88eb99c6af788df99e6cdf5b2eed7c072"
 ---
 # Truy tố 65 bị can trong vụ “ đại án” xảy ra tại Viện Pháp y tâm thần Trung ương
 
-# Truy tố 65 bị can trong vụ 'đại án' xảy ra tại Viện Pháp y tâm thần Trung ương
-
 ## (Chinhphu.vn) - VKSND thành phố Hà Nội vừa truy tố 65 bị can trong “đại án” xảy ra tại Viện Pháp y tâm thần Trung ương, liên quan đến 9 tội danh. Trong số này, hai cựu Viện trưởng Viện Pháp y tâm thần Trung ương Trần Văn Trường và Ngô Văn Vinh cùng bị truy tố về tội "Nhận hối lộ".
 
 ## Truy tố 48 bị can nguyên là cán bộ, lãnh đạo, bác sĩ, nhân viên Viện Pháp y tâm thần Trung ương

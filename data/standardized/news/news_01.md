@@ -12,8 +12,6 @@ sha256: "68ccdd826d5e7283aca42ccb1f8d645a6ecf74fae53e36b6cf36896f9dc3f697"
 ---
 # 20 năm hoạt động của Miu Lê trước khi bị bắt quả tang dùng ma túy
 
-# 20 năm hoạt động của Miu Lê trước khi bị bắt quả tang dùng ma túy
-
 Miu Lê, 35 tuổi, là diễn viên phim trăm tỷ kiêm ca sĩ có nhiều bản hit gây chú ý với khán giả trước khi bị phát hiện vướng vào tệ nạn.
 
 Hôm 10/5, ca sĩ Miu Lê (tên thật Lê Ánh Nhật, 35 tuổi) bị bắt quả tang cùng nhóm bạn sử dụng ma túy tại Hải Phòng.Theo cơ quan chức năng, kết quả xét nghiệm nhanh cho thấy cô dương tính với ba loại chất cấm. Hiện, cô và những người liên quan bị tạm giam để điều tra.
